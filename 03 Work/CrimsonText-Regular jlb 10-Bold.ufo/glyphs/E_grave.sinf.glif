@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave.sinf" format="1">
+  <advance width="0"/>
+  <note>
+    Egrave.sinf
+  </note>
+  <outline>
+    <component base="gravecomb.case" xOffset="56" yOffset="-16"/>
+    <component base="E.sinf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-21 13:34:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

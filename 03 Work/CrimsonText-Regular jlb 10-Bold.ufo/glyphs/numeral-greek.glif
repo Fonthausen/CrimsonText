@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numeral-greek" format="1">
+  <advance width="244"/>
+  <unicode hex="0374"/>
+  <note>
+    uni0374
+  </note>
+  <outline>
+    <contour>
+      <point x="124" y="677" type="curve"/>
+      <point x="113" y="656"/>
+      <point x="61" y="530"/>
+      <point x="61" y="513" type="curve"/>
+      <point x="62" y="505"/>
+      <point x="67" y="501"/>
+      <point x="75" y="501" type="curve"/>
+      <point x="106" y="506"/>
+      <point x="223" y="635"/>
+      <point x="223" y="674" type="curve"/>
+      <point x="223" y="686"/>
+      <point x="197" y="695"/>
+      <point x="176" y="695" type="curve"/>
+      <point x="156" y="695"/>
+      <point x="130" y="689"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-15 20:14:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onedotenleader" format="1">
+  <advance width="341"/>
+  <unicode hex="2024"/>
+  <outline>
+    <contour>
+      <point x="172" y="-7" type="curve"/>
+      <point x="198" y="-7"/>
+      <point x="217" y="17"/>
+      <point x="217" y="43" type="curve"/>
+      <point x="217" y="69"/>
+      <point x="196" y="90"/>
+      <point x="170" y="90" type="curve"/>
+      <point x="138" y="90"/>
+      <point x="123" y="66"/>
+      <point x="123" y="43" type="curve"/>
+      <point x="123" y="18"/>
+      <point x="139" y="-7"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overline" format="1">
+  <advance width="458"/>
+  <unicode hex="203E"/>
+  <note>
+    uni203E
+  </note>
+  <outline>
+    <contour>
+      <point x="458" y="722" type="line"/>
+      <point x="0" y="722" type="line"/>
+      <point x="0" y="658" type="line"/>
+      <point x="458" y="658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-04 15:30:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

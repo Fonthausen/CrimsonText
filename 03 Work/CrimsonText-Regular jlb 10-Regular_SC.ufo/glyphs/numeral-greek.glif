@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numeral-greek" format="1">
+  <advance width="176"/>
+  <outline>
+    <contour>
+      <point x="94" y="466" type="curve"/>
+      <point x="86" y="451"/>
+      <point x="43" y="362"/>
+      <point x="45" y="353" type="curve"/>
+      <point x="46" y="347"/>
+      <point x="50" y="345"/>
+      <point x="56" y="345" type="curve"/>
+      <point x="74" y="348"/>
+      <point x="158" y="437"/>
+      <point x="158" y="464" type="curve"/>
+      <point x="158" y="472"/>
+      <point x="141" y="478"/>
+      <point x="126" y="478" type="curve"/>
+      <point x="113" y="478"/>
+      <point x="99" y="474"/>
+    </contour>
+  </outline>
+</glyph>

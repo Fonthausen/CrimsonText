@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcircumflex" format="1">
+  <advance width="418"/>
+  <unicode hex="1E91"/>
+  <note>
+    uni1E91
+  </note>
+  <outline>
+    <component base="z"/>
+    <component base="circumflexcomb" xOffset="59"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 09:41:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

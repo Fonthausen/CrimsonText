@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringhalfright" format="1">
+  <advance width="446"/>
+  <outline>
+    <contour>
+      <point x="223" y="366" type="curve"/>
+      <point x="223" y="332" type="line"/>
+      <point x="273" y="332"/>
+      <point x="311" y="365"/>
+      <point x="311" y="408" type="curve"/>
+      <point x="311" y="450"/>
+      <point x="273" y="483"/>
+      <point x="223" y="483" type="curve"/>
+      <point x="223" y="450" type="line"/>
+      <point x="248" y="450"/>
+      <point x="266" y="432"/>
+      <point x="266" y="409" type="curve"/>
+      <point x="266" y="385"/>
+      <point x="248" y="366"/>
+    </contour>
+    <contour>
+      <point x="223" y="305" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="223" y="451" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

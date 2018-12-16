@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="592"/>
+  <unicode hex="006E"/>
+  <note>
+    n
+  </note>
+  <outline>
+    <contour>
+      <point x="17" y="-4" type="curve"/>
+      <point x="32" y="-3"/>
+      <point x="122" y="4"/>
+      <point x="154" y="4" type="curve"/>
+      <point x="185" y="4"/>
+      <point x="267" y="-3"/>
+      <point x="283" y="-4" type="curve"/>
+      <point x="284" y="-2"/>
+      <point x="285" y="5"/>
+      <point x="285" y="11" type="curve"/>
+      <point x="285" y="22"/>
+      <point x="283" y="33"/>
+      <point x="281" y="33" type="curve"/>
+      <point x="267" y="33"/>
+      <point x="228" y="51"/>
+      <point x="226" y="58" type="curve"/>
+      <point x="222" y="73"/>
+      <point x="219" y="99"/>
+      <point x="219" y="149" type="curve"/>
+      <point x="219" y="292" type="line" smooth="yes"/>
+      <point x="219" y="332"/>
+      <point x="255" y="360"/>
+      <point x="298" y="360" type="curve"/>
+      <point x="343" y="360"/>
+      <point x="377" y="330"/>
+      <point x="377" y="243" type="curve"/>
+      <point x="377" y="134" type="line" smooth="yes"/>
+      <point x="377" y="100"/>
+      <point x="375" y="76"/>
+      <point x="370" y="58" type="curve"/>
+      <point x="367" y="50"/>
+      <point x="329" y="33"/>
+      <point x="313" y="33" type="curve"/>
+      <point x="310" y="33"/>
+      <point x="309" y="29"/>
+      <point x="309" y="17" type="curve"/>
+      <point x="309" y="5"/>
+      <point x="310" y="-1"/>
+      <point x="313" y="-4" type="curve"/>
+      <point x="329" y="-3"/>
+      <point x="410" y="4"/>
+      <point x="442" y="4" type="curve"/>
+      <point x="473" y="4"/>
+      <point x="564" y="-3"/>
+      <point x="579" y="-4" type="curve"/>
+      <point x="580" y="-2"/>
+      <point x="581" y="5"/>
+      <point x="581" y="11" type="curve"/>
+      <point x="581" y="22"/>
+      <point x="579" y="33"/>
+      <point x="577" y="33" type="curve"/>
+      <point x="561" y="33"/>
+      <point x="516" y="51"/>
+      <point x="514" y="58" type="curve"/>
+      <point x="510" y="73"/>
+      <point x="507" y="99"/>
+      <point x="507" y="149" type="curve"/>
+      <point x="507" y="243" type="line" smooth="yes"/>
+      <point x="507" y="397"/>
+      <point x="447" y="446"/>
+      <point x="367" y="446" type="curve"/>
+      <point x="311" y="446"/>
+      <point x="262" y="415"/>
+      <point x="218" y="374" type="curve"/>
+      <point x="220" y="402"/>
+      <point x="224" y="420"/>
+      <point x="224" y="433" type="curve"/>
+      <point x="224" y="439"/>
+      <point x="220" y="443"/>
+      <point x="214" y="443" type="curve"/>
+      <point x="207" y="443"/>
+      <point x="199" y="441"/>
+      <point x="192" y="439" type="curve"/>
+      <point x="156" y="429"/>
+      <point x="73" y="405"/>
+      <point x="24" y="405" type="curve"/>
+      <point x="21" y="405"/>
+      <point x="19" y="391"/>
+      <point x="19" y="369" type="curve"/>
+      <point x="39" y="366"/>
+      <point x="59" y="359"/>
+      <point x="71" y="346" type="curve"/>
+      <point x="83" y="333"/>
+      <point x="89" y="308"/>
+      <point x="89" y="271" type="curve"/>
+      <point x="89" y="134" type="line" smooth="yes"/>
+      <point x="89" y="100"/>
+      <point x="87" y="76"/>
+      <point x="82" y="58" type="curve"/>
+      <point x="79" y="50"/>
+      <point x="35" y="33"/>
+      <point x="17" y="33" type="curve"/>
+      <point x="14" y="33"/>
+      <point x="13" y="29"/>
+      <point x="13" y="17" type="curve"/>
+      <point x="13" y="5"/>
+      <point x="14" y="-1"/>
+    </contour>
+    <contour>
+      <point x="296" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="296" y="439" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-07 15:39:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

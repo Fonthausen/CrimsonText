@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="515"/>
+  <unicode hex="003E"/>
+  <note>
+    greater
+  </note>
+  <outline>
+    <contour>
+      <point x="465" y="282" type="line"/>
+      <point x="85" y="475" type="line"/>
+      <point x="50" y="402" type="line"/>
+      <point x="399" y="226" type="line"/>
+      <point x="399" y="266" type="line"/>
+      <point x="50" y="90" type="line"/>
+      <point x="85" y="17" type="line"/>
+      <point x="465" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-12 19:59:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

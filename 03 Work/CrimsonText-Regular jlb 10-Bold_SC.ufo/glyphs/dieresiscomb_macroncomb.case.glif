@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_macroncomb.case" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="45" y="477" type="curve"/>
+      <point x="72" y="477"/>
+      <point x="92" y="498"/>
+      <point x="92" y="521" type="curve"/>
+      <point x="92" y="544"/>
+      <point x="72" y="565"/>
+      <point x="45" y="565" type="curve"/>
+      <point x="18" y="565"/>
+      <point x="-2" y="544"/>
+      <point x="-2" y="521" type="curve"/>
+      <point x="-2" y="498"/>
+      <point x="18" y="477"/>
+    </contour>
+    <contour>
+      <point x="178" y="477" type="curve"/>
+      <point x="205" y="477"/>
+      <point x="226" y="498"/>
+      <point x="226" y="521" type="curve"/>
+      <point x="226" y="544"/>
+      <point x="205" y="565"/>
+      <point x="178" y="565" type="curve"/>
+      <point x="151" y="565"/>
+      <point x="131" y="544"/>
+      <point x="131" y="521" type="curve"/>
+      <point x="131" y="498"/>
+      <point x="151" y="477"/>
+    </contour>
+    <contour>
+      <point x="213" y="633" type="line"/>
+      <point x="10" y="633" type="line"/>
+      <point x="10" y="595" type="line"/>
+      <point x="213" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="453" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="587" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

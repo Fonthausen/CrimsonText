@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dong" format="1">
+  <advance width="350"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="344" y="-34" type="curve"/>
+      <point x="26" y="-34" type="line" smooth="yes"/>
+      <point x="20" y="-34"/>
+      <point x="17" y="-56"/>
+      <point x="17" y="-64" type="curve"/>
+      <point x="17" y="-70"/>
+      <point x="18" y="-74"/>
+      <point x="19" y="-76" type="curve"/>
+      <point x="337" y="-76" type="line" smooth="yes"/>
+      <point x="343" y="-76"/>
+      <point x="346" y="-55"/>
+      <point x="346" y="-46" type="curve"/>
+      <point x="346" y="-41"/>
+      <point x="345" y="-36"/>
+    </contour>
+    <component base="dcroat"/>
+  </outline>
+</glyph>

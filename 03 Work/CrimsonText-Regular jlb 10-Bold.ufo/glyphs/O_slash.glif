@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="733"/>
+  <unicode hex="00D8"/>
+  <note>
+    Oslash
+  </note>
+  <outline>
+    <contour>
+      <point x="536" y="676" type="curve"/>
+      <point x="159" y="4" type="line"/>
+      <point x="158" y="-1"/>
+      <point x="170" y="-8"/>
+      <point x="197" y="-18" type="curve"/>
+      <point x="574" y="655" type="line"/>
+      <point x="575" y="659"/>
+      <point x="563" y="666"/>
+    </contour>
+    <contour>
+      <point x="367" y="-10" type="curve"/>
+      <point x="545" y="-10"/>
+      <point x="688" y="140"/>
+      <point x="688" y="328" type="curve"/>
+      <point x="688" y="516"/>
+      <point x="544" y="668"/>
+      <point x="367" y="668" type="curve"/>
+      <point x="189" y="668"/>
+      <point x="45" y="516"/>
+      <point x="45" y="328" type="curve"/>
+      <point x="45" y="140"/>
+      <point x="188" y="-10"/>
+    </contour>
+    <contour>
+      <point x="380" y="46" type="curve"/>
+      <point x="270" y="46"/>
+      <point x="201" y="187"/>
+      <point x="201" y="349" type="curve"/>
+      <point x="201" y="497"/>
+      <point x="259" y="611"/>
+      <point x="351" y="611" type="curve"/>
+      <point x="462" y="611"/>
+      <point x="532" y="471"/>
+      <point x="532" y="310" type="curve"/>
+      <point x="532" y="164"/>
+      <point x="475" y="46"/>
+    </contour>
+    <contour>
+      <point x="367" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="367" y="658" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-27 13:19:58 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

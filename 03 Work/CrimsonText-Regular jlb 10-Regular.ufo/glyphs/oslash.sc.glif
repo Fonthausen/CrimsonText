@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash.sc" format="1">
+  <advance width="533"/>
+  <note>
+    oslash.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="255" y="424" type="curve"/>
+      <point x="356" y="424"/>
+      <point x="418" y="325"/>
+      <point x="418" y="213" type="curve"/>
+      <point x="418" y="116"/>
+      <point x="364" y="29"/>
+      <point x="276" y="29" type="curve"/>
+      <point x="175" y="29"/>
+      <point x="114" y="129"/>
+      <point x="114" y="241" type="curve"/>
+      <point x="114" y="337"/>
+      <point x="168" y="424"/>
+    </contour>
+    <contour>
+      <point x="122" y="-18" type="curve"/>
+      <point x="421" y="454" type="line"/>
+      <point x="423" y="459"/>
+      <point x="414" y="465"/>
+      <point x="394" y="474" type="curve"/>
+      <point x="95" y="3" type="line"/>
+      <point x="93" y="-1"/>
+      <point x="102" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-21 13:36:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notelement" format="1">
+  <advance width="452"/>
+  <unicode hex="2209"/>
+  <note>
+    notelement
+  </note>
+  <outline>
+    <contour>
+      <point x="100" y="247" type="curve"/>
+      <point x="100" y="341"/>
+      <point x="145" y="396"/>
+      <point x="230" y="396" type="curve"/>
+      <point x="415" y="396" type="line"/>
+      <point x="415" y="456" type="line"/>
+      <point x="230" y="456" type="line" smooth="yes"/>
+      <point x="111" y="456"/>
+      <point x="27" y="364"/>
+      <point x="27" y="247" type="curve"/>
+      <point x="27" y="130"/>
+      <point x="111" y="37"/>
+      <point x="230" y="37" type="curve"/>
+      <point x="415" y="37" type="line"/>
+      <point x="415" y="97" type="line"/>
+      <point x="230" y="97" type="line" smooth="yes"/>
+      <point x="153" y="97"/>
+      <point x="100" y="153"/>
+    </contour>
+    <contour>
+      <point x="379" y="275" type="line"/>
+      <point x="76" y="275" type="line"/>
+      <point x="76" y="215" type="line"/>
+      <point x="379" y="215" type="line"/>
+    </contour>
+    <contour>
+      <point x="173" y="-32" type="line"/>
+      <point x="385" y="524" type="line"/>
+      <point x="324" y="524" type="line"/>
+      <point x="112" y="-32" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-12 17:01:57 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>element</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

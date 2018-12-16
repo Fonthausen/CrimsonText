@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongcomb.case" format="1">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="-105" y="194" type="line"/>
+      <point x="293" y="194" type="line"/>
+      <point x="293" y="220" type="line"/>
+      <point x="-105" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="207" type="move" name="_stroke"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 22:05:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

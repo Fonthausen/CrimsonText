@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_tildecomb.case" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="205" y="477" type="curve"/>
+      <point x="211" y="477"/>
+      <point x="225" y="484"/>
+      <point x="213" y="508" type="curve"/>
+      <point x="213" y="508"/>
+      <point x="167" y="543"/>
+      <point x="158" y="552" type="curve"/>
+      <point x="150" y="560"/>
+      <point x="137" y="573"/>
+      <point x="120" y="592" type="curve"/>
+      <point x="118" y="597"/>
+      <point x="114" y="599"/>
+      <point x="111" y="599" type="curve"/>
+      <point x="109" y="599"/>
+      <point x="106" y="597"/>
+      <point x="103" y="592" type="curve"/>
+      <point x="94" y="578"/>
+      <point x="80" y="567"/>
+      <point x="65" y="554" type="curve"/>
+      <point x="56" y="546"/>
+      <point x="45" y="537"/>
+      <point x="32" y="527" type="curve"/>
+      <point x="19" y="517"/>
+      <point x="12" y="510"/>
+      <point x="10" y="509" type="curve"/>
+      <point x="-2" y="484"/>
+      <point x="12" y="477"/>
+      <point x="19" y="477" type="curve"/>
+      <point x="29" y="477"/>
+      <point x="81" y="508"/>
+      <point x="111" y="520" type="curve"/>
+      <point x="142" y="508"/>
+      <point x="195" y="477"/>
+    </contour>
+    <contour>
+      <point x="-6" y="600" type="curve"/>
+      <point x="-3" y="600"/>
+      <point x="32" y="642"/>
+      <point x="41" y="642" type="curve"/>
+      <point x="85" y="642"/>
+      <point x="126" y="593"/>
+      <point x="168" y="593" type="curve"/>
+      <point x="207" y="593"/>
+      <point x="235" y="634"/>
+      <point x="235" y="663" type="curve"/>
+      <point x="235" y="673"/>
+      <point x="234" y="678"/>
+      <point x="232" y="678" type="curve"/>
+      <point x="226" y="678"/>
+      <point x="193" y="636"/>
+      <point x="186" y="636" type="curve"/>
+      <point x="143" y="636"/>
+      <point x="106" y="686"/>
+      <point x="55" y="686" type="curve"/>
+      <point x="22" y="686"/>
+      <point x="-12" y="641"/>
+      <point x="-12" y="616" type="curve"/>
+      <point x="-12" y="606"/>
+      <point x="-10" y="600"/>
+    </contour>
+    <contour>
+      <point x="112" y="453" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="587" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

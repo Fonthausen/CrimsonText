@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koppaArchaic" format="1">
+  <advance width="487"/>
+  <unicode hex="03D9"/>
+  <note>
+    uni03D9
+  </note>
+  <outline>
+    <contour>
+      <point x="367" y="239" type="curve"/>
+      <point x="367" y="324"/>
+      <point x="325" y="400"/>
+      <point x="257" y="400" type="curve"/>
+      <point x="173" y="400"/>
+      <point x="119" y="306"/>
+      <point x="119" y="191" type="curve"/>
+      <point x="119" y="104"/>
+      <point x="157" y="31"/>
+      <point x="225" y="31" type="curve"/>
+      <point x="312" y="31"/>
+      <point x="367" y="124"/>
+    </contour>
+    <contour>
+      <point x="240" y="439" type="curve"/>
+      <point x="364" y="439"/>
+      <point x="449" y="337"/>
+      <point x="449" y="218" type="curve"/>
+      <point x="449" y="89"/>
+      <point x="355" y="-8"/>
+      <point x="242" y="-8" type="curve"/>
+      <point x="118" y="-8"/>
+      <point x="37" y="95"/>
+      <point x="37" y="215" type="curve"/>
+      <point x="37" y="346"/>
+      <point x="128" y="439"/>
+    </contour>
+    <contour>
+      <point x="272" y="21" type="curve"/>
+      <point x="210" y="20" type="line"/>
+      <point x="210" y="17"/>
+      <point x="208" y="-50"/>
+      <point x="205" y="-182" type="curve"/>
+      <point x="204" y="-197"/>
+      <point x="258" y="-227"/>
+      <point x="270" y="-227" type="curve"/>
+      <point x="278" y="-227"/>
+      <point x="286" y="-221"/>
+      <point x="293" y="-209" type="curve"/>
+      <point x="284" y="-177"/>
+      <point x="277" y="-100"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

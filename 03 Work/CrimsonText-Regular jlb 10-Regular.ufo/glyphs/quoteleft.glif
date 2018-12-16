@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="1">
+  <advance width="242"/>
+  <unicode hex="2018"/>
+  <note>
+    quoteleft
+  </note>
+  <outline>
+    <contour>
+      <point x="185" y="780" type="curve"/>
+      <point x="119" y="733"/>
+      <point x="63" y="645"/>
+      <point x="63" y="581" type="curve"/>
+      <point x="63" y="532"/>
+      <point x="89" y="510"/>
+      <point x="123" y="510" type="curve"/>
+      <point x="154" y="510"/>
+      <point x="178" y="534"/>
+      <point x="178" y="570" type="curve"/>
+      <point x="178" y="598"/>
+      <point x="158" y="623"/>
+      <point x="158" y="659" type="curve"/>
+      <point x="158" y="692"/>
+      <point x="172" y="715"/>
+      <point x="210" y="753" type="curve"/>
+      <point x="210" y="766"/>
+      <point x="193" y="780"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-05 13:36:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|comma+5</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|comma+5</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

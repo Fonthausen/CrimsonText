@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.onum" format="1">
+  <advance width="475"/>
+  <note>
+    nine.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="241" y="460" type="curve"/>
+      <point x="112" y="460"/>
+      <point x="34" y="352"/>
+      <point x="34" y="248" type="curve"/>
+      <point x="34" y="153"/>
+      <point x="113" y="72"/>
+      <point x="206" y="72" type="curve"/>
+      <point x="229" y="72"/>
+      <point x="275" y="85"/>
+      <point x="301" y="100" type="curve"/>
+      <point x="290" y="109" type="line"/>
+      <point x="262" y="10"/>
+      <point x="162" y="-104"/>
+      <point x="56" y="-153" type="curve"/>
+      <point x="56" y="-168"/>
+      <point x="66" y="-186"/>
+      <point x="77" y="-192" type="curve"/>
+      <point x="299" y="-103"/>
+      <point x="441" y="66"/>
+      <point x="441" y="240" type="curve"/>
+      <point x="441" y="364"/>
+      <point x="354" y="460"/>
+    </contour>
+    <contour>
+      <point x="238" y="408" type="curve"/>
+      <point x="268" y="408"/>
+      <point x="309" y="340"/>
+      <point x="309" y="246" type="curve"/>
+      <point x="309" y="220"/>
+      <point x="305" y="187"/>
+      <point x="300" y="167" type="curve"/>
+      <point x="295" y="147"/>
+      <point x="281" y="135"/>
+      <point x="265" y="135" type="curve"/>
+      <point x="208" y="135"/>
+      <point x="166" y="201"/>
+      <point x="166" y="288" type="curve"/>
+      <point x="166" y="354"/>
+      <point x="198" y="408"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-03 15:31:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

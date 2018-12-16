@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onedotenleader" format="1">
+  <advance width="542"/>
+  <unicode hex="2024"/>
+  <note>
+    period
+  </note>
+  <outline>
+    <contour>
+      <point x="273" y="-11" type="curve"/>
+      <point x="313" y="-11"/>
+      <point x="344" y="25"/>
+      <point x="344" y="66" type="curve"/>
+      <point x="344" y="106"/>
+      <point x="311" y="139"/>
+      <point x="271" y="139" type="curve"/>
+      <point x="222" y="139"/>
+      <point x="198" y="102"/>
+      <point x="198" y="65" type="curve"/>
+      <point x="198" y="27"/>
+      <point x="223" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-04 15:20:30 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

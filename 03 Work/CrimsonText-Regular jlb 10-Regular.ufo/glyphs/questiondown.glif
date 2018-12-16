@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="366"/>
+  <unicode hex="00BF"/>
+  <note>
+    questiondown
+  </note>
+  <outline>
+    <contour>
+      <point x="256" y="263" type="curve"/>
+      <point x="243" y="263"/>
+      <point x="237" y="259"/>
+      <point x="237" y="250" type="curve"/>
+      <point x="237" y="230"/>
+      <point x="236" y="201"/>
+      <point x="229" y="183" type="curve"/>
+      <point x="224" y="170"/>
+      <point x="205" y="152"/>
+      <point x="156" y="119" type="curve"/>
+      <point x="88" y="73"/>
+      <point x="63" y="25"/>
+      <point x="63" y="-34" type="curve"/>
+      <point x="63" y="-139"/>
+      <point x="171" y="-219"/>
+      <point x="270" y="-219" type="curve"/>
+      <point x="309" y="-219"/>
+      <point x="324" y="-209"/>
+      <point x="324" y="-183" type="curve"/>
+      <point x="324" y="-154"/>
+      <point x="305" y="-135"/>
+      <point x="275" y="-135" type="curve"/>
+      <point x="264" y="-135"/>
+      <point x="231" y="-142"/>
+      <point x="210" y="-142" type="curve"/>
+      <point x="154" y="-142"/>
+      <point x="117" y="-107"/>
+      <point x="115" y="-73" type="curve"/>
+      <point x="112" y="-23"/>
+      <point x="138" y="3"/>
+      <point x="223" y="57" type="curve"/>
+      <point x="264" y="83"/>
+      <point x="278" y="118"/>
+      <point x="278" y="161" type="curve"/>
+      <point x="278" y="178"/>
+      <point x="273" y="239"/>
+      <point x="270" y="255" type="curve"/>
+      <point x="269" y="260"/>
+      <point x="265" y="263"/>
+    </contour>
+    <contour>
+      <point x="250" y="437" type="curve"/>
+      <point x="218" y="437"/>
+      <point x="192" y="410"/>
+      <point x="192" y="379" type="curve"/>
+      <point x="192" y="348"/>
+      <point x="218" y="321"/>
+      <point x="250" y="321" type="curve"/>
+      <point x="282" y="321"/>
+      <point x="308" y="348"/>
+      <point x="308" y="379" type="curve"/>
+      <point x="308" y="410"/>
+      <point x="282" y="437"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-04 12:33:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|question</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

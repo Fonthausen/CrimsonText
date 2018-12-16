@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb" format="1">
+  <advance width="300"/>
+  <unicode hex="0335"/>
+  <outline>
+    <contour>
+      <point x="321" y="574" type="line"/>
+      <point x="-21" y="574" type="line"/>
+      <point x="-21" y="524" type="line"/>
+      <point x="321" y="524" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="549" type="move" name="_stroke"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 09:01:45 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

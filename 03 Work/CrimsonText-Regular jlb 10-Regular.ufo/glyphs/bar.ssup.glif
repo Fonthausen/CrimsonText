@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar.ssup" format="1">
+  <advance width="102"/>
+  <note>
+    bar.ssup
+  </note>
+  <outline>
+    <contour>
+      <point x="65" y="361" type="curve"/>
+      <point x="65" y="905" type="line"/>
+      <point x="64" y="907"/>
+      <point x="60" y="908"/>
+      <point x="55" y="908" type="curve"/>
+      <point x="45" y="908"/>
+      <point x="36" y="907"/>
+      <point x="29" y="905" type="curve"/>
+      <point x="26" y="904"/>
+      <point x="25" y="902"/>
+      <point x="26" y="899" type="curve"/>
+      <point x="26" y="355" type="line" smooth="yes"/>
+      <point x="26" y="351"/>
+      <point x="29" y="349"/>
+      <point x="36" y="349" type="curve"/>
+      <point x="41" y="349"/>
+      <point x="65" y="357"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-05 16:55:21 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

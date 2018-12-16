@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rupeeIndian" format="1">
+  <advance width="520"/>
+  <unicode hex="20B9"/>
+  <outline>
+    <contour>
+      <point x="499" y="-5" type="curve"/>
+      <point x="510" y="-5"/>
+      <point x="519" y="-4"/>
+      <point x="526" y="-2" type="curve"/>
+      <point x="528" y="2"/>
+      <point x="529" y="7"/>
+      <point x="529" y="13" type="curve"/>
+      <point x="529" y="18"/>
+      <point x="528" y="23"/>
+      <point x="526" y="27" type="curve"/>
+      <point x="486" y="27"/>
+      <point x="429" y="57"/>
+      <point x="370" y="132" type="curve"/>
+      <point x="333" y="179"/>
+      <point x="292" y="253"/>
+      <point x="235" y="328" type="curve"/>
+      <point x="224" y="316" type="line"/>
+      <point x="323" y="340"/>
+      <point x="378" y="414"/>
+      <point x="378" y="476" type="curve"/>
+      <point x="378" y="583"/>
+      <point x="286" y="638"/>
+      <point x="167" y="638" type="curve"/>
+      <point x="136" y="614" type="line"/>
+      <point x="229" y="614"/>
+      <point x="286" y="572"/>
+      <point x="286" y="482" type="curve"/>
+      <point x="286" y="398"/>
+      <point x="233" y="349"/>
+      <point x="136" y="349" type="curve"/>
+      <point x="105" y="349"/>
+      <point x="86" y="349"/>
+      <point x="64" y="352" type="curve"/>
+      <point x="62" y="336"/>
+      <point x="61" y="320"/>
+      <point x="64" y="304" type="curve"/>
+      <point x="74" y="305"/>
+      <point x="84" y="306"/>
+      <point x="101" y="306" type="curve"/>
+      <point x="135" y="306"/>
+      <point x="150" y="298"/>
+      <point x="167" y="272" type="curve"/>
+      <point x="251" y="139" type="line" smooth="yes"/>
+      <point x="314" y="40"/>
+      <point x="396" y="-5"/>
+    </contour>
+    <contour>
+      <point x="60" y="538" type="line"/>
+      <point x="60" y="494" type="line"/>
+      <point x="465" y="494" type="line"/>
+      <point x="465" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="658" type="line"/>
+      <point x="60" y="614" type="line"/>
+      <point x="465" y="614" type="line"/>
+      <point x="465" y="658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-07 13:55:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

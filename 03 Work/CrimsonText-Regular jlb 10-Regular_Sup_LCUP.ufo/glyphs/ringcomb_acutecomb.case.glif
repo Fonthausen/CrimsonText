@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb_acutecomb.case" format="1">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="95" y="444" type="curve" smooth="yes"/>
+      <point x="127" y="444"/>
+      <point x="153" y="469"/>
+      <point x="153" y="501" type="curve" smooth="yes"/>
+      <point x="153" y="534"/>
+      <point x="128" y="558"/>
+      <point x="95" y="558" type="curve" smooth="yes"/>
+      <point x="62" y="558"/>
+      <point x="35" y="533"/>
+      <point x="35" y="501" type="curve" smooth="yes"/>
+      <point x="35" y="469"/>
+      <point x="62" y="444"/>
+    </contour>
+    <contour>
+      <point x="95" y="462" type="curve" smooth="yes"/>
+      <point x="74" y="462"/>
+      <point x="58" y="479"/>
+      <point x="58" y="502" type="curve" smooth="yes"/>
+      <point x="58" y="525"/>
+      <point x="74" y="541"/>
+      <point x="95" y="541" type="curve" smooth="yes"/>
+      <point x="117" y="541"/>
+      <point x="132" y="526"/>
+      <point x="132" y="502" type="curve" smooth="yes"/>
+      <point x="132" y="478"/>
+      <point x="117" y="462"/>
+    </contour>
+    <contour>
+      <point x="136" y="526" type="curve" smooth="yes"/>
+      <point x="143" y="526"/>
+      <point x="200" y="570"/>
+      <point x="200" y="584" type="curve" smooth="yes"/>
+      <point x="200" y="589"/>
+      <point x="194" y="596"/>
+      <point x="183" y="596" type="curve" smooth="yes"/>
+      <point x="178" y="596"/>
+      <point x="172" y="595"/>
+      <point x="170" y="592" type="curve"/>
+      <point x="162" y="584"/>
+      <point x="128" y="538"/>
+      <point x="128" y="533" type="curve" smooth="yes"/>
+      <point x="128" y="530"/>
+      <point x="132" y="526"/>
+    </contour>
+    <contour>
+      <point x="94" y="413" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="94" y="544" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 22:05:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

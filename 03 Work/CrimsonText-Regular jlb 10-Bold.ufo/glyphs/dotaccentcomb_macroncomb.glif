@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb_macroncomb" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="150" y="480" type="curve"/>
+      <point x="188" y="480"/>
+      <point x="217" y="512"/>
+      <point x="217" y="547" type="curve"/>
+      <point x="217" y="582"/>
+      <point x="188" y="614"/>
+      <point x="150" y="614" type="curve"/>
+      <point x="112" y="614"/>
+      <point x="83" y="582"/>
+      <point x="83" y="547" type="curve"/>
+      <point x="83" y="512"/>
+      <point x="112" y="480"/>
+    </contour>
+    <contour>
+      <point x="260" y="698" type="line"/>
+      <point x="40" y="698" type="line"/>
+      <point x="40" y="648" type="line"/>
+      <point x="260" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="439" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 11:03:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

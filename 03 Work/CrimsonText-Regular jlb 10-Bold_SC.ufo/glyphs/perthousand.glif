@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="805"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="656" y="181" type="curve"/>
+      <point x="674" y="181"/>
+      <point x="692" y="140"/>
+      <point x="692" y="95" type="curve"/>
+      <point x="692" y="46"/>
+      <point x="686" y="26"/>
+      <point x="674" y="26" type="curve"/>
+      <point x="653" y="26"/>
+      <point x="638" y="68"/>
+      <point x="638" y="115" type="curve"/>
+      <point x="638" y="164"/>
+      <point x="643" y="181"/>
+    </contour>
+    <contour>
+      <point x="660" y="216" type="curve"/>
+      <point x="596" y="216"/>
+      <point x="547" y="167"/>
+      <point x="547" y="104" type="curve"/>
+      <point x="547" y="39"/>
+      <point x="596" y="-9"/>
+      <point x="665" y="-9" type="curve"/>
+      <point x="730" y="-9"/>
+      <point x="780" y="39"/>
+      <point x="780" y="104" type="curve"/>
+      <point x="780" y="165"/>
+      <point x="728" y="216"/>
+    </contour>
+    <component base="percent"/>
+  </outline>
+</glyph>

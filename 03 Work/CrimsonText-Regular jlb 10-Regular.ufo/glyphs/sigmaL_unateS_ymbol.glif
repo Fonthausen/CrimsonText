@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigmaLunateSymbol" format="1">
+  <advance width="475"/>
+  <unicode hex="03F2"/>
+  <note>
+    uni03F2
+  </note>
+  <outline>
+    <contour>
+      <point x="414" y="94" type="curve"/>
+      <point x="387" y="57"/>
+      <point x="343" y="39"/>
+      <point x="283" y="39" type="curve"/>
+      <point x="179" y="39"/>
+      <point x="125" y="114"/>
+      <point x="125" y="230" type="curve"/>
+      <point x="125" y="323"/>
+      <point x="169" y="397"/>
+      <point x="268" y="397" type="curve"/>
+      <point x="326" y="397"/>
+      <point x="370" y="378"/>
+      <point x="399" y="341" type="curve"/>
+      <point x="403" y="336"/>
+      <point x="407" y="333"/>
+      <point x="410" y="333" type="curve"/>
+      <point x="419" y="333"/>
+      <point x="426" y="340"/>
+      <point x="429" y="353" type="curve"/>
+      <point x="431" y="360"/>
+      <point x="429" y="367"/>
+      <point x="424" y="374" type="curve"/>
+      <point x="391" y="416"/>
+      <point x="339" y="437"/>
+      <point x="266" y="437" type="curve"/>
+      <point x="125" y="437"/>
+      <point x="37" y="343"/>
+      <point x="37" y="216" type="curve"/>
+      <point x="37" y="77"/>
+      <point x="135" y="-7"/>
+      <point x="278" y="-7" type="curve"/>
+      <point x="332" y="-7"/>
+      <point x="387" y="3"/>
+      <point x="436" y="56" type="curve"/>
+      <point x="440" y="61"/>
+      <point x="443" y="66"/>
+      <point x="443" y="71" type="curve"/>
+      <point x="443" y="74"/>
+      <point x="442" y="76"/>
+      <point x="441" y="79" type="curve"/>
+      <point x="438" y="90"/>
+      <point x="430" y="98"/>
+      <point x="422" y="98" type="curve"/>
+      <point x="420" y="98"/>
+      <point x="417" y="97"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

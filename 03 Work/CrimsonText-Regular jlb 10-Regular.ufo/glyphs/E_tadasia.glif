@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etadasia" format="1">
+  <advance width="803"/>
+  <unicode hex="1F29"/>
+  <note>
+    uni1F29
+  </note>
+  <outline>
+    <component base="commareversedabovecomb" xOffset="-167" yOffset="-13"/>
+    <component base="Eta" xOffset="99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis.sc" format="1">
+  <advance width="700"/>
+  <outline>
+    <component base="W"/>
+    <component base="dieresiscomb.case" xOffset="256"/>
+  </outline>
+</glyph>

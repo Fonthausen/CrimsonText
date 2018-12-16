@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaboverightcomb" format="1">
+  <advance width="300"/>
+  <unicode hex="0315"/>
+  <note>
+    uni0315
+  </note>
+  <outline>
+    <contour>
+      <point x="87" y="647" type="curve"/>
+      <point x="87" y="607"/>
+      <point x="125" y="597"/>
+      <point x="125" y="570" type="curve"/>
+      <point x="125" y="546"/>
+      <point x="114" y="532"/>
+      <point x="85" y="504" type="curve"/>
+      <point x="85" y="495"/>
+      <point x="101" y="480"/>
+      <point x="108" y="480" type="curve"/>
+      <point x="166" y="515"/>
+      <point x="215" y="581"/>
+      <point x="215" y="629" type="curve"/>
+      <point x="215" y="680"/>
+      <point x="185" y="701"/>
+      <point x="148" y="701" type="curve"/>
+      <point x="110" y="701"/>
+      <point x="87" y="680"/>
+    </contour>
+    <contour>
+      <point x="150" y="439" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-28 22:45:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

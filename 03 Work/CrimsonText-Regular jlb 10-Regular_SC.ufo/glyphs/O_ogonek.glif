@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oogonek" format="1">
+  <advance width="549"/>
+  <outline>
+    <contour>
+      <point x="268" y="-152" type="curve"/>
+      <point x="298" y="-152"/>
+      <point x="330" y="-135"/>
+      <point x="350" y="-106" type="curve"/>
+      <point x="352" y="-103"/>
+      <point x="354" y="-98"/>
+      <point x="354" y="-93" type="curve"/>
+      <point x="354" y="-86"/>
+      <point x="352" y="-83"/>
+      <point x="350" y="-83" type="curve"/>
+      <point x="338" y="-94"/>
+      <point x="313" y="-108"/>
+      <point x="290" y="-108" type="curve"/>
+      <point x="269" y="-108"/>
+      <point x="260" y="-95"/>
+      <point x="260" y="-81" type="curve"/>
+      <point x="260" y="-54"/>
+      <point x="293" y="-18"/>
+      <point x="364" y="10" type="curve"/>
+      <point x="452" y="45"/>
+      <point x="513" y="129"/>
+      <point x="513" y="225" type="curve"/>
+      <point x="513" y="355"/>
+      <point x="406" y="459"/>
+      <point x="274" y="459" type="curve"/>
+      <point x="144" y="459"/>
+      <point x="37" y="355"/>
+      <point x="37" y="225" type="curve"/>
+      <point x="37" y="97"/>
+      <point x="143" y="-7"/>
+      <point x="274" y="-7" type="curve"/>
+      <point x="287" y="-7"/>
+      <point x="302" y="-6"/>
+      <point x="314" y="-4" type="curve"/>
+      <point x="313" y="5" type="line"/>
+      <point x="256" y="-18"/>
+      <point x="213" y="-62"/>
+      <point x="213" y="-99" type="curve"/>
+      <point x="213" y="-127"/>
+      <point x="234" y="-152"/>
+    </contour>
+    <contour>
+      <point x="286" y="25" type="curve"/>
+      <point x="185" y="25"/>
+      <point x="123" y="126"/>
+      <point x="123" y="241" type="curve"/>
+      <point x="123" y="341"/>
+      <point x="177" y="427"/>
+      <point x="262" y="427" type="curve"/>
+      <point x="364" y="427"/>
+      <point x="426" y="327"/>
+      <point x="426" y="213" type="curve"/>
+      <point x="426" y="114"/>
+      <point x="374" y="25"/>
+    </contour>
+    <contour>
+      <point x="275" y="226" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="275" y="453" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="23" y="453" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="527" y="453" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>

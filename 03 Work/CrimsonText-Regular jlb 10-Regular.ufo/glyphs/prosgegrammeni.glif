@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="prosgegrammeni" format="1">
+  <advance width="222"/>
+  <unicode hex="1FBE"/>
+  <note>
+    uni1FBE
+  </note>
+  <outline>
+    <contour>
+      <point x="56" y="-74" type="curve"/>
+      <point x="48" y="-74"/>
+      <point x="35" y="-81"/>
+      <point x="35" y="-86" type="curve"/>
+      <point x="35" y="-118" type="line" smooth="yes"/>
+      <point x="35" y="-170"/>
+      <point x="62" y="-210"/>
+      <point x="107" y="-210" type="curve"/>
+      <point x="139" y="-210"/>
+      <point x="177" y="-171"/>
+      <point x="177" y="-159" type="curve"/>
+      <point x="177" y="-151"/>
+      <point x="175" y="-146"/>
+      <point x="170" y="-143" type="curve"/>
+      <point x="165" y="-146"/>
+      <point x="154" y="-147"/>
+      <point x="138" y="-147" type="curve"/>
+      <point x="114" y="-147"/>
+      <point x="102" y="-131"/>
+      <point x="102" y="-100" type="curve"/>
+      <point x="102" y="-84"/>
+      <point x="72" y="-74"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

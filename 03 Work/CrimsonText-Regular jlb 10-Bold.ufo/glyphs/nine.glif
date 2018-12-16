@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="486"/>
+  <unicode hex="0039"/>
+  <note>
+    nine
+  </note>
+  <outline>
+    <contour>
+      <point x="241" y="645" type="curve"/>
+      <point x="112" y="645"/>
+      <point x="34" y="537"/>
+      <point x="34" y="433" type="curve"/>
+      <point x="34" y="338"/>
+      <point x="113" y="257"/>
+      <point x="206" y="257" type="curve"/>
+      <point x="229" y="257"/>
+      <point x="275" y="270"/>
+      <point x="301" y="285" type="curve"/>
+      <point x="290" y="294" type="line"/>
+      <point x="262" y="195"/>
+      <point x="162" y="81"/>
+      <point x="56" y="32" type="curve"/>
+      <point x="56" y="17"/>
+      <point x="66" y="-1"/>
+      <point x="77" y="-7" type="curve"/>
+      <point x="299" y="82"/>
+      <point x="441" y="251"/>
+      <point x="441" y="425" type="curve"/>
+      <point x="441" y="549"/>
+      <point x="354" y="645"/>
+    </contour>
+    <contour>
+      <point x="238" y="593" type="curve"/>
+      <point x="268" y="593"/>
+      <point x="309" y="525"/>
+      <point x="309" y="431" type="curve"/>
+      <point x="309" y="405"/>
+      <point x="305" y="372"/>
+      <point x="300" y="352" type="curve"/>
+      <point x="295" y="332"/>
+      <point x="281" y="320"/>
+      <point x="265" y="320" type="curve"/>
+      <point x="208" y="320"/>
+      <point x="166" y="386"/>
+      <point x="166" y="473" type="curve"/>
+      <point x="166" y="539"/>
+      <point x="198" y="593"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 13:53:58 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|six</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|six</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

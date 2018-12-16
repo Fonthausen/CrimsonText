@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="522"/>
+  <unicode hex="006F"/>
+  <note>
+    o
+  </note>
+  <outline>
+    <contour>
+      <point x="244" y="391" type="curve"/>
+      <point x="301" y="391"/>
+      <point x="354" y="303"/>
+      <point x="354" y="205" type="curve"/>
+      <point x="354" y="104"/>
+      <point x="328" y="49"/>
+      <point x="278" y="49" type="curve"/>
+      <point x="217" y="49"/>
+      <point x="168" y="139"/>
+      <point x="168" y="240" type="curve"/>
+      <point x="168" y="341"/>
+      <point x="194" y="391"/>
+    </contour>
+    <contour>
+      <point x="257" y="447" type="curve"/>
+      <point x="127" y="447"/>
+      <point x="26" y="349"/>
+      <point x="26" y="221" type="curve"/>
+      <point x="26" y="89"/>
+      <point x="125" y="-7"/>
+      <point x="263" y="-7" type="curve"/>
+      <point x="396" y="-7"/>
+      <point x="496" y="89"/>
+      <point x="496" y="221" type="curve"/>
+      <point x="496" y="345"/>
+      <point x="390" y="447"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="262" y="216" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="471" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="262" y="439" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="503" y="431" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-28 09:52:23 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

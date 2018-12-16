@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegavaria" format="1">
+  <advance width="739"/>
+  <unicode hex="1F7C"/>
+  <note>
+    uni1F7C
+  </note>
+  <outline>
+    <component base="varia" xOffset="60" yOffset="-51"/>
+    <component base="omega"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

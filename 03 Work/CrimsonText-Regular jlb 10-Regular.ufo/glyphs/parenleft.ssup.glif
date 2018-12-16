@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.ssup" format="1">
+  <advance width="171"/>
+  <note>
+    parenleft.ssup
+  </note>
+  <outline>
+    <contour>
+      <point x="66" y="624" type="curve"/>
+      <point x="66" y="747"/>
+      <point x="110" y="870"/>
+      <point x="150" y="890" type="curve"/>
+      <point x="150" y="894" type="line" smooth="yes"/>
+      <point x="150" y="901"/>
+      <point x="146" y="913"/>
+      <point x="142" y="913" type="curve"/>
+      <point x="91" y="913"/>
+      <point x="16" y="776"/>
+      <point x="16" y="624" type="curve"/>
+      <point x="16" y="540"/>
+      <point x="80" y="345"/>
+      <point x="142" y="345" type="curve"/>
+      <point x="146" y="345"/>
+      <point x="150" y="356"/>
+      <point x="150" y="363" type="curve"/>
+      <point x="150" y="367" type="line"/>
+      <point x="119" y="383"/>
+      <point x="66" y="504"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-05 09:22:38 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

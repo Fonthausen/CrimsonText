@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o.sc" format="1">
+  <advance width="573"/>
+  <note>
+    o.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="274" y="415" type="curve"/>
+      <point x="370" y="415"/>
+      <point x="401" y="315"/>
+      <point x="401" y="216" type="curve"/>
+      <point x="401" y="119"/>
+      <point x="367" y="43"/>
+      <point x="296" y="43" type="curve"/>
+      <point x="236" y="43"/>
+      <point x="195" y="97"/>
+      <point x="181" y="154" type="curve"/>
+      <point x="174" y="183"/>
+      <point x="170" y="212"/>
+      <point x="170" y="243" type="curve"/>
+      <point x="170" y="342"/>
+      <point x="202" y="415"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-21 13:36:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

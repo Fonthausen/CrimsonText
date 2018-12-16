@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.sc" format="1">
+  <advance width="470"/>
+  <note>
+    zero.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="175" y="225" type="curve"/>
+      <point x="175" y="314"/>
+      <point x="181" y="402"/>
+      <point x="236" y="402" type="curve"/>
+      <point x="297" y="402"/>
+      <point x="303" y="324"/>
+      <point x="303" y="223" type="curve"/>
+      <point x="303" y="131"/>
+      <point x="298" y="48"/>
+      <point x="241" y="48" type="curve"/>
+      <point x="197" y="48"/>
+      <point x="175" y="107"/>
+    </contour>
+    <contour>
+      <point x="43" y="225" type="curve"/>
+      <point x="43" y="85"/>
+      <point x="135" y="-6"/>
+      <point x="238" y="-6" type="curve"/>
+      <point x="340" y="-6"/>
+      <point x="435" y="87"/>
+      <point x="435" y="223" type="curve"/>
+      <point x="435" y="354"/>
+      <point x="337" y="456"/>
+      <point x="238" y="456" type="curve"/>
+      <point x="147" y="456"/>
+      <point x="43" y="352"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-03 22:14:18 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

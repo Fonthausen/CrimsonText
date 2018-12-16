@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O.ssup" format="1">
+  <advance width="441"/>
+  <note>
+    O.ssup
+  </note>
+  <outline>
+    <contour>
+      <point x="210" y="813" type="curve"/>
+      <point x="301" y="813"/>
+      <point x="355" y="724"/>
+      <point x="355" y="620" type="curve"/>
+      <point x="355" y="528"/>
+      <point x="309" y="451"/>
+      <point x="230" y="451" type="curve"/>
+      <point x="141" y="451"/>
+      <point x="87" y="540"/>
+      <point x="87" y="645" type="curve"/>
+      <point x="87" y="737"/>
+      <point x="131" y="813"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 11:12:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

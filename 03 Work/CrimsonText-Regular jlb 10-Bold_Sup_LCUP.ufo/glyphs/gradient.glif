@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gradient" format="1">
+  <advance width="422"/>
+  <unicode hex="2207"/>
+  <outline>
+    <contour>
+      <point x="232" y="113" type="line"/>
+      <point x="108" y="360" type="line"/>
+      <point x="104" y="352" type="line"/>
+      <point x="352" y="352" type="line"/>
+      <point x="352" y="357" type="line"/>
+      <point x="226" y="114" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="392" type="line"/>
+      <point x="203" y="16" type="line"/>
+      <point x="214" y="16" type="line"/>
+      <point x="408" y="391" type="line"/>
+      <point x="403" y="401" type="line"/>
+      <point x="19" y="401" type="line"/>
+    </contour>
+  </outline>
+</glyph>

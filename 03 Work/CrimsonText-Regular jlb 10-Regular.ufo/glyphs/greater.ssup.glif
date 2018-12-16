@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater.ssup" format="1">
+  <advance width="298"/>
+  <note>
+    greater.ssup
+  </note>
+  <outline>
+    <contour>
+      <point x="26" y="665" type="curve"/>
+      <point x="26" y="662"/>
+      <point x="26" y="661"/>
+      <point x="27" y="660" type="curve"/>
+      <point x="228" y="557" type="line"/>
+      <point x="24" y="452" type="line"/>
+      <point x="22" y="449" type="line"/>
+      <point x="22" y="444"/>
+      <point x="29" y="417"/>
+      <point x="33" y="417" type="curve"/>
+      <point x="34" y="417"/>
+      <point x="34" y="417"/>
+      <point x="35" y="418" type="curve"/>
+      <point x="267" y="538" type="line"/>
+      <point x="274" y="541"/>
+      <point x="277" y="549"/>
+      <point x="277" y="562" type="curve"/>
+      <point x="277" y="569"/>
+      <point x="274" y="574"/>
+      <point x="267" y="577" type="curve"/>
+      <point x="39" y="694" type="line"/>
+      <point x="31" y="702"/>
+      <point x="26" y="678"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-05 16:54:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

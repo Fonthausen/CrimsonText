@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="413"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="37" y="190" type="line"/>
+      <point x="37" y="149" type="line"/>
+      <point x="376" y="149" type="line"/>
+      <point x="376" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="10" type="curve"/>
+      <point x="233" y="10"/>
+      <point x="253" y="30"/>
+      <point x="253" y="53" type="curve"/>
+      <point x="253" y="77"/>
+      <point x="232" y="97"/>
+      <point x="207" y="97" type="curve"/>
+      <point x="179" y="97"/>
+      <point x="160" y="76"/>
+      <point x="160" y="53" type="curve"/>
+      <point x="160" y="30"/>
+      <point x="179" y="10"/>
+    </contour>
+    <contour>
+      <point x="207" y="242" type="curve"/>
+      <point x="233" y="242"/>
+      <point x="253" y="262"/>
+      <point x="253" y="286" type="curve"/>
+      <point x="253" y="309"/>
+      <point x="232" y="329"/>
+      <point x="207" y="329" type="curve"/>
+      <point x="179" y="329"/>
+      <point x="160" y="308"/>
+      <point x="160" y="286" type="curve"/>
+      <point x="160" y="263"/>
+      <point x="179" y="242"/>
+    </contour>
+  </outline>
+</glyph>

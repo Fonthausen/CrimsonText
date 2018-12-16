@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringhalfleft" format="1">
+  <advance width="600"/>
+  <unicode hex="02BF"/>
+  <outline>
+    <contour>
+      <point x="300" y="666" type="curve"/>
+      <point x="300" y="708" type="line"/>
+      <point x="235" y="708"/>
+      <point x="184" y="660"/>
+      <point x="184" y="599" type="curve"/>
+      <point x="184" y="536"/>
+      <point x="235" y="488"/>
+      <point x="300" y="488" type="curve"/>
+      <point x="300" y="532" type="line"/>
+      <point x="264" y="532"/>
+      <point x="237" y="561"/>
+      <point x="237" y="600" type="curve"/>
+      <point x="237" y="638"/>
+      <point x="264" y="666"/>
+    </contour>
+    <contour>
+      <point x="300" y="439" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="673" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-14 23:05:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

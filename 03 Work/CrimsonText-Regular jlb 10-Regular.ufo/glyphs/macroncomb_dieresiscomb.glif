@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_dieresiscomb" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="270" y="560" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="30" y="520" type="line"/>
+      <point x="270" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="608" type="curve"/>
+      <point x="103" y="608"/>
+      <point x="124" y="630"/>
+      <point x="124" y="655" type="curve"/>
+      <point x="124" y="680"/>
+      <point x="103" y="702"/>
+      <point x="77" y="702" type="curve"/>
+      <point x="51" y="702"/>
+      <point x="30" y="680"/>
+      <point x="30" y="655" type="curve"/>
+      <point x="30" y="630"/>
+      <point x="51" y="608"/>
+    </contour>
+    <contour>
+      <point x="223" y="608" type="curve"/>
+      <point x="249" y="608"/>
+      <point x="270" y="630"/>
+      <point x="270" y="655" type="curve"/>
+      <point x="270" y="680"/>
+      <point x="249" y="702"/>
+      <point x="223" y="702" type="curve"/>
+      <point x="197" y="702"/>
+      <point x="176" y="680"/>
+      <point x="176" y="655" type="curve"/>
+      <point x="176" y="630"/>
+      <point x="197" y="608"/>
+    </contour>
+    <contour>
+      <point x="150" y="431" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 10:50:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.onum" format="1">
+  <advance width="467"/>
+  <note>
+    eight.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="231" y="-9" type="curve"/>
+      <point x="332" y="-9"/>
+      <point x="422" y="68"/>
+      <point x="422" y="167" type="curve"/>
+      <point x="422" y="339"/>
+      <point x="147" y="345"/>
+      <point x="147" y="502" type="curve"/>
+      <point x="147" y="561"/>
+      <point x="184" y="608"/>
+      <point x="233" y="608" type="curve"/>
+      <point x="290" y="608"/>
+      <point x="331" y="549"/>
+      <point x="331" y="486" type="curve"/>
+      <point x="331" y="432"/>
+      <point x="306" y="387"/>
+      <point x="249" y="356" type="curve"/>
+      <point x="276" y="335" type="line"/>
+      <point x="362" y="385"/>
+      <point x="403" y="438"/>
+      <point x="403" y="491" type="curve"/>
+      <point x="403" y="583"/>
+      <point x="331" y="643"/>
+      <point x="239" y="643" type="curve"/>
+      <point x="151" y="643"/>
+      <point x="73" y="565"/>
+      <point x="73" y="480" type="curve"/>
+      <point x="73" y="307"/>
+      <point x="341" y="287"/>
+      <point x="341" y="138" type="curve"/>
+      <point x="341" y="70"/>
+      <point x="300" y="27"/>
+      <point x="233" y="27" type="curve"/>
+      <point x="176" y="27"/>
+      <point x="124" y="80"/>
+      <point x="124" y="157" type="curve"/>
+      <point x="124" y="224"/>
+      <point x="157" y="271"/>
+      <point x="216" y="303" type="curve"/>
+      <point x="187" y="324" type="line"/>
+      <point x="96" y="277"/>
+      <point x="45" y="219"/>
+      <point x="45" y="154" type="curve"/>
+      <point x="45" y="57"/>
+      <point x="120" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-03 15:31:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

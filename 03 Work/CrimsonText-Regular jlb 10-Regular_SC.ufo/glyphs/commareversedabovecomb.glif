@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commareversedabovecomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="118" y="468" type="curve"/>
+      <point x="94" y="468"/>
+      <point x="71" y="441"/>
+      <point x="71" y="414" type="curve"/>
+      <point x="71" y="369"/>
+      <point x="109" y="339"/>
+      <point x="140" y="339" type="curve"/>
+      <point x="144" y="339"/>
+      <point x="149" y="343"/>
+      <point x="149" y="348" type="curve"/>
+      <point x="125" y="354"/>
+      <point x="109" y="370"/>
+      <point x="109" y="387" type="curve"/>
+      <point x="109" y="418"/>
+      <point x="130" y="424"/>
+      <point x="150" y="442" type="curve"/>
+      <point x="152" y="443"/>
+      <point x="153" y="444"/>
+      <point x="153" y="446" type="curve"/>
+      <point x="153" y="454"/>
+      <point x="130" y="468"/>
+    </contour>
+    <contour>
+      <point x="112" y="298" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

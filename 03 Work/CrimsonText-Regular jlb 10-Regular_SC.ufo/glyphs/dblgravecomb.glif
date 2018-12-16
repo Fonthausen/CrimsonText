@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="-20" y="441" type="curve"/>
+      <point x="-40" y="441"/>
+      <point x="-52" y="432"/>
+      <point x="-52" y="424" type="curve"/>
+      <point x="-52" y="401"/>
+      <point x="51" y="330"/>
+      <point x="64" y="330" type="curve"/>
+      <point x="70" y="330"/>
+      <point x="74" y="334"/>
+      <point x="74" y="340" type="curve"/>
+      <point x="74" y="349"/>
+      <point x="18" y="422"/>
+      <point x="5" y="435" type="curve"/>
+      <point x="1" y="439"/>
+      <point x="-8" y="441"/>
+    </contour>
+    <contour>
+      <point x="77" y="441" type="curve"/>
+      <point x="58" y="441"/>
+      <point x="46" y="432"/>
+      <point x="46" y="424" type="curve"/>
+      <point x="46" y="401"/>
+      <point x="149" y="330"/>
+      <point x="162" y="330" type="curve"/>
+      <point x="167" y="330"/>
+      <point x="172" y="334"/>
+      <point x="172" y="340" type="curve"/>
+      <point x="172" y="349"/>
+      <point x="115" y="422"/>
+      <point x="103" y="435" type="curve"/>
+      <point x="98" y="439"/>
+      <point x="90" y="441"/>
+    </contour>
+    <contour>
+      <point x="112" y="298" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

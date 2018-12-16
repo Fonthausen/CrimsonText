@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="secondtonechinese" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="196" y="441" type="curve"/>
+      <point x="183" y="441"/>
+      <point x="175" y="439"/>
+      <point x="171" y="435" type="curve"/>
+      <point x="158" y="422"/>
+      <point x="102" y="349"/>
+      <point x="102" y="340" type="curve"/>
+      <point x="102" y="334"/>
+      <point x="106" y="330"/>
+      <point x="112" y="330" type="curve"/>
+      <point x="124" y="330"/>
+      <point x="228" y="401"/>
+      <point x="228" y="424" type="curve"/>
+      <point x="228" y="432"/>
+      <point x="215" y="441"/>
+    </contour>
+    <contour>
+      <point x="112" y="298" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

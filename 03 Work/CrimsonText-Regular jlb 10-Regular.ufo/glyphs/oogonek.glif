@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oogonek" format="1">
+  <advance width="511"/>
+  <unicode hex="01EB"/>
+  <outline>
+    <contour>
+      <point x="242" y="-223" type="curve"/>
+      <point x="279" y="-223"/>
+      <point x="319" y="-204"/>
+      <point x="347" y="-157" type="curve"/>
+      <point x="350" y="-152"/>
+      <point x="352" y="-146"/>
+      <point x="352" y="-139" type="curve"/>
+      <point x="352" y="-130"/>
+      <point x="350" y="-126"/>
+      <point x="347" y="-126" type="curve"/>
+      <point x="331" y="-143"/>
+      <point x="300" y="-164"/>
+      <point x="266" y="-164" type="curve"/>
+      <point x="235" y="-164"/>
+      <point x="225" y="-142"/>
+      <point x="225" y="-121" type="curve"/>
+      <point x="225" y="-85"/>
+      <point x="273" y="-24"/>
+      <point x="354" y="15" type="curve"/>
+      <point x="423" y="48"/>
+      <point x="473" y="120"/>
+      <point x="473" y="216" type="curve"/>
+      <point x="473" y="337"/>
+      <point x="375" y="437"/>
+      <point x="255" y="437" type="curve"/>
+      <point x="132" y="437"/>
+      <point x="38" y="341"/>
+      <point x="38" y="216" type="curve"/>
+      <point x="38" y="88"/>
+      <point x="129" y="-7"/>
+      <point x="255" y="-7" type="curve"/>
+      <point x="268" y="-7"/>
+      <point x="282" y="-5"/>
+      <point x="295" y="-3" type="curve"/>
+      <point x="298" y="11" type="line"/>
+      <point x="233" y="-26"/>
+      <point x="171" y="-91"/>
+      <point x="171" y="-146" type="curve"/>
+      <point x="171" y="-182"/>
+      <point x="193" y="-223"/>
+    </contour>
+    <contour>
+      <point x="266" y="32" type="curve"/>
+      <point x="188" y="32"/>
+      <point x="123" y="123"/>
+      <point x="123" y="231" type="curve"/>
+      <point x="123" y="327"/>
+      <point x="164" y="398"/>
+      <point x="244" y="398" type="curve"/>
+      <point x="322" y="398"/>
+      <point x="388" y="308"/>
+      <point x="388" y="202" type="curve"/>
+      <point x="388" y="106"/>
+      <point x="346" y="32"/>
+    </contour>
+    <contour>
+      <point x="256" y="216" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="256" y="431" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="491" y="431" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 11:12:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

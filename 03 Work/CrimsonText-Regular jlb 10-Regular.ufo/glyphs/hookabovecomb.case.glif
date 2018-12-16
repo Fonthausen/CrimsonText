@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb.case" format="1">
+  <advance width="300"/>
+  <note>
+    hookabovecomb
+  </note>
+  <outline>
+    <contour>
+      <point x="157" y="808" type="curve"/>
+      <point x="173" y="808"/>
+      <point x="188" y="800"/>
+      <point x="188" y="790" type="curve"/>
+      <point x="188" y="765"/>
+      <point x="127" y="747"/>
+      <point x="127" y="729" type="curve"/>
+      <point x="127" y="717"/>
+      <point x="140" y="707"/>
+      <point x="158" y="707" type="curve"/>
+      <point x="168" y="707"/>
+      <point x="176" y="711"/>
+      <point x="177" y="714" type="curve"/>
+      <point x="174" y="718"/>
+      <point x="172" y="722"/>
+      <point x="172" y="725" type="curve"/>
+      <point x="172" y="743"/>
+      <point x="240" y="760"/>
+      <point x="240" y="797" type="curve"/>
+      <point x="240" y="825"/>
+      <point x="207" y="843"/>
+      <point x="168" y="843" type="curve"/>
+      <point x="112" y="843"/>
+      <point x="70" y="815"/>
+      <point x="70" y="794" type="curve"/>
+      <point x="70" y="785"/>
+      <point x="78" y="781"/>
+      <point x="100" y="776" type="curve"/>
+      <point x="108" y="794"/>
+      <point x="127" y="808"/>
+    </contour>
+    <contour>
+      <point x="150" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 13:25:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

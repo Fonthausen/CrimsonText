@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevebelowcomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="47" y="-30" type="curve"/>
+      <point x="47" y="-28"/>
+      <point x="46" y="-28"/>
+      <point x="44" y="-28" type="curve"/>
+      <point x="39" y="-28"/>
+      <point x="28" y="-33"/>
+      <point x="28" y="-37" type="curve"/>
+      <point x="37" y="-85"/>
+      <point x="68" y="-112"/>
+      <point x="111" y="-112" type="curve"/>
+      <point x="156" y="-112"/>
+      <point x="190" y="-80"/>
+      <point x="195" y="-37" type="curve"/>
+      <point x="195" y="-33"/>
+      <point x="184" y="-28"/>
+      <point x="179" y="-28" type="curve"/>
+      <point x="177" y="-28"/>
+      <point x="176" y="-28"/>
+      <point x="176" y="-30" type="curve"/>
+      <point x="167" y="-62"/>
+      <point x="141" y="-77"/>
+      <point x="112" y="-77" type="curve"/>
+      <point x="83" y="-77"/>
+      <point x="56" y="-62"/>
+    </contour>
+    <contour>
+      <point x="112" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="112" y="-131" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

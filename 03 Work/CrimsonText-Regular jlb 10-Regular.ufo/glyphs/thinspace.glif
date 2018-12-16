@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thinspace" format="1">
+  <advance width="166"/>
+  <unicode hex="2009"/>
+  <note>
+    uni2009
+  </note>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-21 13:34:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

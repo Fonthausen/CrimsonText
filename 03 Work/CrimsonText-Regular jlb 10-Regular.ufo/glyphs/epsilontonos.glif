@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos" format="1">
+  <advance width="356"/>
+  <unicode hex="03AD"/>
+  <note>
+    epsilontonos
+  </note>
+  <outline>
+    <component base="tonos" xOffset="119" yOffset="5"/>
+    <component base="epsilon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaboverightcomb" format="1">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="53" y="408" type="curve"/>
+      <point x="53" y="382"/>
+      <point x="78" y="376"/>
+      <point x="78" y="359" type="curve"/>
+      <point x="78" y="344"/>
+      <point x="71" y="335"/>
+      <point x="52" y="317" type="curve"/>
+      <point x="52" y="311"/>
+      <point x="62" y="301"/>
+      <point x="67" y="301" type="curve"/>
+      <point x="105" y="324"/>
+      <point x="137" y="366"/>
+      <point x="137" y="397" type="curve"/>
+      <point x="137" y="429"/>
+      <point x="117" y="443"/>
+      <point x="93" y="443" type="curve"/>
+      <point x="68" y="443"/>
+      <point x="53" y="429"/>
+    </contour>
+    <contour>
+      <point x="94" y="276" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="94" y="402" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

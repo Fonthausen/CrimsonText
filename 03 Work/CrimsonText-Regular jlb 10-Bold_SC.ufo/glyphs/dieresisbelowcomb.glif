@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="45" y="-115" type="curve"/>
+      <point x="72" y="-115"/>
+      <point x="92" y="-94"/>
+      <point x="92" y="-71" type="curve"/>
+      <point x="92" y="-48"/>
+      <point x="72" y="-28"/>
+      <point x="45" y="-28" type="curve"/>
+      <point x="18" y="-28"/>
+      <point x="-2" y="-48"/>
+      <point x="-2" y="-71" type="curve"/>
+      <point x="-2" y="-94"/>
+      <point x="18" y="-115"/>
+    </contour>
+    <contour>
+      <point x="178" y="-115" type="curve"/>
+      <point x="205" y="-115"/>
+      <point x="226" y="-94"/>
+      <point x="226" y="-71" type="curve"/>
+      <point x="226" y="-48"/>
+      <point x="205" y="-28"/>
+      <point x="178" y="-28" type="curve"/>
+      <point x="151" y="-28"/>
+      <point x="131" y="-48"/>
+      <point x="131" y="-71" type="curve"/>
+      <point x="131" y="-94"/>
+      <point x="151" y="-115"/>
+    </contour>
+    <contour>
+      <point x="112" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="112" y="-131" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

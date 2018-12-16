@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_tildecomb.case" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="33" y="567" type="curve"/>
+      <point x="33" y="568"/>
+      <point x="32" y="569"/>
+      <point x="30" y="569" type="curve"/>
+      <point x="25" y="569"/>
+      <point x="3" y="563"/>
+      <point x="3" y="559" type="curve"/>
+      <point x="13" y="507"/>
+      <point x="48" y="477"/>
+      <point x="111" y="477" type="curve"/>
+      <point x="176" y="477"/>
+      <point x="214" y="512"/>
+      <point x="220" y="559" type="curve"/>
+      <point x="220" y="563"/>
+      <point x="198" y="569"/>
+      <point x="192" y="569" type="curve"/>
+      <point x="189" y="569"/>
+      <point x="189" y="568"/>
+      <point x="189" y="567" type="curve"/>
+      <point x="179" y="537"/>
+      <point x="158" y="526"/>
+      <point x="112" y="526" type="curve"/>
+      <point x="65" y="526"/>
+      <point x="45" y="537"/>
+    </contour>
+    <contour>
+      <point x="-6" y="593" type="curve"/>
+      <point x="-3" y="593"/>
+      <point x="32" y="635"/>
+      <point x="41" y="635" type="curve"/>
+      <point x="85" y="635"/>
+      <point x="126" y="586"/>
+      <point x="168" y="586" type="curve"/>
+      <point x="207" y="586"/>
+      <point x="235" y="627"/>
+      <point x="235" y="656" type="curve"/>
+      <point x="235" y="666"/>
+      <point x="234" y="671"/>
+      <point x="232" y="671" type="curve"/>
+      <point x="226" y="671"/>
+      <point x="193" y="629"/>
+      <point x="186" y="629" type="curve"/>
+      <point x="143" y="629"/>
+      <point x="106" y="680"/>
+      <point x="55" y="680" type="curve"/>
+      <point x="22" y="680"/>
+      <point x="-12" y="634"/>
+      <point x="-12" y="609" type="curve"/>
+      <point x="-12" y="599"/>
+      <point x="-10" y="593"/>
+    </contour>
+    <contour>
+      <point x="112" y="453" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="587" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_tildecomb.case" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="256" y="707" type="curve"/>
+      <point x="262" y="707"/>
+      <point x="265" y="715"/>
+      <point x="265" y="730" type="curve"/>
+      <point x="265" y="730"/>
+      <point x="214" y="779"/>
+      <point x="202" y="791" type="curve"/>
+      <point x="192" y="801"/>
+      <point x="179" y="820"/>
+      <point x="160" y="846" type="curve"/>
+      <point x="157" y="853"/>
+      <point x="153" y="856"/>
+      <point x="149" y="856" type="curve"/>
+      <point x="147" y="856"/>
+      <point x="144" y="853"/>
+      <point x="140" y="846" type="curve"/>
+      <point x="130" y="828"/>
+      <point x="114" y="811"/>
+      <point x="97" y="793" type="curve"/>
+      <point x="87" y="782"/>
+      <point x="75" y="770"/>
+      <point x="60" y="756" type="curve"/>
+      <point x="44" y="741"/>
+      <point x="37" y="733"/>
+      <point x="35" y="730" type="curve"/>
+      <point x="35" y="715"/>
+      <point x="38" y="707"/>
+      <point x="45" y="707" type="curve"/>
+      <point x="57" y="707"/>
+      <point x="115" y="745"/>
+      <point x="149" y="773" type="curve"/>
+      <point x="184" y="745"/>
+      <point x="244" y="707"/>
+    </contour>
+    <contour>
+      <point x="18" y="882" type="curve"/>
+      <point x="34" y="882"/>
+      <point x="31" y="918"/>
+      <point x="73" y="918" type="curve"/>
+      <point x="122" y="918"/>
+      <point x="164" y="875"/>
+      <point x="213" y="875" type="curve"/>
+      <point x="244" y="875"/>
+      <point x="291" y="908"/>
+      <point x="291" y="945" type="curve"/>
+      <point x="291" y="956"/>
+      <point x="288" y="961"/>
+      <point x="282" y="961" type="curve"/>
+      <point x="268" y="961"/>
+      <point x="271" y="926"/>
+      <point x="225" y="926" type="curve"/>
+      <point x="176" y="926"/>
+      <point x="136" y="968"/>
+      <point x="87" y="968" type="curve"/>
+      <point x="56" y="968"/>
+      <point x="9" y="935"/>
+      <point x="9" y="898" type="curve"/>
+      <point x="9" y="887"/>
+      <point x="12" y="882"/>
+    </contour>
+    <contour>
+      <point x="150" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 13:31:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

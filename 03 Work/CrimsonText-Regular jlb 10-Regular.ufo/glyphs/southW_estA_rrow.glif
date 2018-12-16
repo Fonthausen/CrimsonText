@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southWestArrow" format="1">
+  <advance width="581"/>
+  <unicode hex="2199"/>
+  <outline>
+    <contour>
+      <point x="30" y="89" type="curve"/>
+      <point x="32" y="81"/>
+      <point x="34" y="75"/>
+      <point x="39" y="70" type="curve"/>
+      <point x="44" y="65"/>
+      <point x="50" y="63"/>
+      <point x="58" y="61" type="curve"/>
+      <point x="137" y="79"/>
+      <point x="235" y="94"/>
+      <point x="358" y="100" type="curve"/>
+      <point x="361" y="104"/>
+      <point x="366" y="120"/>
+      <point x="361" y="130" type="curve"/>
+      <point x="277" y="140"/>
+      <point x="220" y="144"/>
+      <point x="117" y="140" type="curve"/>
+      <point x="122" y="109" type="line"/>
+      <point x="551" y="538" type="line"/>
+      <point x="507" y="582" type="line"/>
+      <point x="78" y="153" type="line"/>
+      <point x="109" y="148" type="line"/>
+      <point x="113" y="251"/>
+      <point x="109" y="308"/>
+      <point x="99" y="392" type="curve"/>
+      <point x="89" y="397"/>
+      <point x="73" y="392"/>
+      <point x="69" y="389" type="curve"/>
+      <point x="63" y="266"/>
+      <point x="48" y="168"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-14 14:18:25 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

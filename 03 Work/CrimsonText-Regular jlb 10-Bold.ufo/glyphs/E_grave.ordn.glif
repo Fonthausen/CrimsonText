@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave.ordn" format="1">
+  <advance width="0"/>
+  <note>
+    Egrave.ordn
+  </note>
+  <outline>
+    <component base="gravecomb.case" xOffset="56" yOffset="-16"/>
+    <component base="E.ordn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 11:12:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

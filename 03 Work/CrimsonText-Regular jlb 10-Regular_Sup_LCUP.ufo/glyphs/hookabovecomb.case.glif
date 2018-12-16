@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb.case" format="1">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="99" y="444" type="curve" smooth="yes"/>
+      <point x="106" y="444"/>
+      <point x="111" y="446"/>
+      <point x="111" y="448" type="curve"/>
+      <point x="109" y="451"/>
+      <point x="108" y="453"/>
+      <point x="108" y="455" type="curve" smooth="yes"/>
+      <point x="108" y="466"/>
+      <point x="151" y="477"/>
+      <point x="151" y="501" type="curve" smooth="yes"/>
+      <point x="151" y="518"/>
+      <point x="131" y="530"/>
+      <point x="106" y="530" type="curve" smooth="yes"/>
+      <point x="70" y="530"/>
+      <point x="44" y="512"/>
+      <point x="44" y="499" type="curve" smooth="yes"/>
+      <point x="44" y="493"/>
+      <point x="49" y="490"/>
+      <point x="63" y="487" type="curve"/>
+      <point x="68" y="499"/>
+      <point x="80" y="507"/>
+      <point x="98" y="507" type="curve" smooth="yes"/>
+      <point x="109" y="507"/>
+      <point x="118" y="502"/>
+      <point x="118" y="496" type="curve" smooth="yes"/>
+      <point x="118" y="480"/>
+      <point x="79" y="469"/>
+      <point x="79" y="457" type="curve" smooth="yes"/>
+      <point x="79" y="450"/>
+      <point x="88" y="444"/>
+    </contour>
+    <contour>
+      <point x="94" y="413" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="94" y="544" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 22:05:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

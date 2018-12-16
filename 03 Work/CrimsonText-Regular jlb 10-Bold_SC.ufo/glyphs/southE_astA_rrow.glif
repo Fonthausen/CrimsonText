@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southEastArrow" format="1">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="421" y="54" type="curve"/>
+      <point x="409" y="113"/>
+      <point x="399" y="186"/>
+      <point x="397" y="278" type="curve"/>
+      <point x="394" y="280"/>
+      <point x="382" y="283"/>
+      <point x="359" y="279" type="curve"/>
+      <point x="345" y="224"/>
+      <point x="336" y="189"/>
+      <point x="331" y="122" type="curve"/>
+      <point x="394" y="108" type="line"/>
+      <point x="76" y="402" type="line"/>
+      <point x="22" y="352" type="line"/>
+      <point x="340" y="58" type="line"/>
+      <point x="324" y="116" type="line"/>
+      <point x="253" y="112"/>
+      <point x="214" y="103"/>
+      <point x="155" y="91" type="curve"/>
+      <point x="150" y="69"/>
+      <point x="154" y="58"/>
+      <point x="156" y="55" type="curve"/>
+      <point x="255" y="53"/>
+      <point x="334" y="44"/>
+      <point x="398" y="33" type="curve"/>
+      <point x="405" y="35"/>
+      <point x="409" y="37"/>
+      <point x="413" y="40" type="curve"/>
+      <point x="417" y="44"/>
+      <point x="418" y="48"/>
+    </contour>
+  </outline>
+</glyph>

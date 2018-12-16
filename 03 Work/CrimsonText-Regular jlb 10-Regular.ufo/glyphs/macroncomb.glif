@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="1">
+  <advance width="300"/>
+  <unicode hex="0304"/>
+  <note>
+    uni0304
+  </note>
+  <outline>
+    <contour>
+      <point x="260" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="520" type="line"/>
+      <point x="260" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="431" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 09:51:48 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gradient" format="1">
+  <advance width="422"/>
+  <unicode hex="2207"/>
+  <outline>
+    <contour>
+      <point x="203" y="16" type="line"/>
+      <point x="214" y="16" type="line"/>
+      <point x="408" y="391" type="line"/>
+      <point x="403" y="401" type="line"/>
+      <point x="19" y="401" type="line"/>
+      <point x="14" y="392" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="85" type="line"/>
+      <point x="86" y="367" type="line"/>
+      <point x="78" y="361" type="line"/>
+      <point x="372" y="361" type="line"/>
+      <point x="365" y="370" type="line"/>
+      <point x="221" y="86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 22:05:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

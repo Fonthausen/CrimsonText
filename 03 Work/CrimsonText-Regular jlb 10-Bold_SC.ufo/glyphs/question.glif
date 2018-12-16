@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="253"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="67" y="144" type="curve"/>
+      <point x="72" y="144"/>
+      <point x="79" y="145"/>
+      <point x="79" y="149" type="curve"/>
+      <point x="79" y="186"/>
+      <point x="81" y="191"/>
+      <point x="91" y="191" type="curve"/>
+      <point x="99" y="192"/>
+      <point x="132" y="201"/>
+      <point x="135" y="197" type="curve"/>
+      <point x="212" y="217"/>
+      <point x="239" y="253"/>
+      <point x="239" y="328" type="curve"/>
+      <point x="239" y="393"/>
+      <point x="164" y="446"/>
+      <point x="49" y="446" type="curve"/>
+      <point x="7" y="446"/>
+      <point x="-8" y="434"/>
+      <point x="-8" y="399" type="curve"/>
+      <point x="-8" y="370"/>
+      <point x="23" y="343"/>
+      <point x="58" y="343" type="curve"/>
+      <point x="96" y="343"/>
+      <point x="109" y="356"/>
+      <point x="135" y="356" type="curve"/>
+      <point x="154" y="356"/>
+      <point x="159" y="354"/>
+      <point x="158" y="330" type="curve"/>
+      <point x="157" y="308"/>
+      <point x="140" y="299"/>
+      <point x="69" y="264" type="curve"/>
+      <point x="44" y="252"/>
+      <point x="37" y="243"/>
+      <point x="37" y="187" type="curve"/>
+      <point x="37" y="162"/>
+      <point x="41" y="160"/>
+      <point x="43" y="153" type="curve"/>
+      <point x="46" y="143"/>
+      <point x="62" y="144"/>
+    </contour>
+    <contour>
+      <point x="73" y="-6" type="curve"/>
+      <point x="106" y="-6"/>
+      <point x="132" y="23"/>
+      <point x="132" y="55" type="curve"/>
+      <point x="132" y="87"/>
+      <point x="104" y="112"/>
+      <point x="70" y="112" type="curve"/>
+      <point x="26" y="112"/>
+      <point x="9" y="82"/>
+      <point x="9" y="54" type="curve"/>
+      <point x="9" y="25"/>
+      <point x="27" y="-6"/>
+    </contour>
+  </outline>
+</glyph>

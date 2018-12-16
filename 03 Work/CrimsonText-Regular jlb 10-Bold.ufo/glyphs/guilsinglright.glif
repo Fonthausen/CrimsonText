@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="324"/>
+  <unicode hex="203A"/>
+  <note>
+    guilsinglright
+  </note>
+  <outline>
+    <contour>
+      <point x="156" y="247" type="curve"/>
+      <point x="127" y="219"/>
+      <point x="61" y="140"/>
+      <point x="39" y="113" type="curve"/>
+      <point x="33" y="106"/>
+      <point x="31" y="101"/>
+      <point x="31" y="97" type="curve"/>
+      <point x="31" y="89"/>
+      <point x="53" y="69"/>
+      <point x="65" y="69" type="curve"/>
+      <point x="122" y="121"/>
+      <point x="192" y="174"/>
+      <point x="271" y="226" type="curve"/>
+      <point x="278" y="232"/>
+      <point x="281" y="237"/>
+      <point x="281" y="247" type="curve"/>
+      <point x="281" y="257"/>
+      <point x="278" y="262"/>
+      <point x="271" y="268" type="curve"/>
+      <point x="192" y="320"/>
+      <point x="122" y="373"/>
+      <point x="65" y="425" type="curve"/>
+      <point x="53" y="425"/>
+      <point x="31" y="405"/>
+      <point x="31" y="397" type="curve"/>
+      <point x="31" y="393"/>
+      <point x="34" y="389"/>
+      <point x="39" y="382" type="curve"/>
+      <point x="60" y="352"/>
+      <point x="127" y="275"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-05 14:12:58 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|guilsinglleft</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

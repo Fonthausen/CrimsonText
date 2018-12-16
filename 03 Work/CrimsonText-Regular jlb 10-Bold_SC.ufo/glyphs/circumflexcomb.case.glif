@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.case" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="205" y="477" type="curve"/>
+      <point x="211" y="477"/>
+      <point x="225" y="483"/>
+      <point x="213" y="502" type="curve"/>
+      <point x="213" y="502"/>
+      <point x="167" y="531"/>
+      <point x="158" y="539" type="curve"/>
+      <point x="150" y="546"/>
+      <point x="137" y="557"/>
+      <point x="120" y="573" type="curve"/>
+      <point x="118" y="577"/>
+      <point x="114" y="579"/>
+      <point x="111" y="579" type="curve"/>
+      <point x="109" y="579"/>
+      <point x="106" y="577"/>
+      <point x="103" y="573" type="curve"/>
+      <point x="94" y="560"/>
+      <point x="80" y="551"/>
+      <point x="65" y="541" type="curve"/>
+      <point x="56" y="535"/>
+      <point x="45" y="527"/>
+      <point x="32" y="519" type="curve"/>
+      <point x="19" y="510"/>
+      <point x="12" y="504"/>
+      <point x="10" y="503" type="curve"/>
+      <point x="-2" y="483"/>
+      <point x="12" y="477"/>
+      <point x="19" y="477" type="curve"/>
+      <point x="29" y="477"/>
+      <point x="81" y="496"/>
+      <point x="111" y="506" type="curve"/>
+      <point x="142" y="496"/>
+      <point x="195" y="477"/>
+    </contour>
+    <contour>
+      <point x="112" y="453" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="587" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case" format="1">
+  <advance width="300"/>
+  <note>
+    acutecomb
+  </note>
+  <outline>
+    <contour>
+      <point x="265" y="837" type="curve"/>
+      <point x="248" y="837"/>
+      <point x="237" y="834"/>
+      <point x="231" y="828" type="curve"/>
+      <point x="215" y="810"/>
+      <point x="138" y="732"/>
+      <point x="138" y="720" type="curve"/>
+      <point x="138" y="711"/>
+      <point x="142" y="707"/>
+      <point x="150" y="707" type="curve"/>
+      <point x="167" y="707"/>
+      <point x="306" y="790"/>
+      <point x="306" y="813" type="curve"/>
+      <point x="306" y="825"/>
+      <point x="289" y="837"/>
+    </contour>
+    <contour>
+      <point x="150" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 13:25:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

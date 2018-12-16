@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="1">
+  <advance width="300"/>
+  <unicode hex="0384"/>
+  <note>
+    tonos
+  </note>
+  <outline>
+    <contour>
+      <point x="181" y="704" type="curve"/>
+      <point x="163" y="704"/>
+      <point x="139" y="690"/>
+      <point x="135" y="679" type="curve"/>
+      <point x="117" y="628"/>
+      <point x="93" y="515"/>
+      <point x="93" y="502" type="curve"/>
+      <point x="93" y="498"/>
+      <point x="101" y="493"/>
+      <point x="105" y="493" type="curve"/>
+      <point x="108" y="493" type="line"/>
+      <point x="121" y="498"/>
+      <point x="207" y="637"/>
+      <point x="207" y="681" type="curve"/>
+      <point x="207" y="696"/>
+      <point x="198" y="704"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 09:07:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

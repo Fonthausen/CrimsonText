@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="125"/>
+  <unicode hex="2044"/>
+  <note>
+    fraction
+  </note>
+  <outline>
+    <contour>
+      <point x="-92" y="-14" type="curve"/>
+      <point x="267" y="612" type="line"/>
+      <point x="217" y="643" type="line"/>
+      <point x="-142" y="17" type="line"/>
+      <point x="-142" y="16"/>
+      <point x="-92" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-15 21:36:12 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

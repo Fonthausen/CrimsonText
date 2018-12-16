@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.onum" format="1">
+  <advance width="500"/>
+  <note>
+    four.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="346" y="456" type="curve"/>
+      <point x="337" y="456"/>
+      <point x="329" y="452"/>
+      <point x="323" y="444" type="curve"/>
+      <point x="20" y="38" type="line"/>
+      <point x="20" y="23"/>
+      <point x="22" y="13"/>
+      <point x="27" y="7" type="curve"/>
+      <point x="280" y="7" type="line"/>
+      <point x="280" y="-177" type="line" smooth="yes"/>
+      <point x="280" y="-182"/>
+      <point x="292" y="-185"/>
+      <point x="317" y="-185" type="curve"/>
+      <point x="343" y="-185"/>
+      <point x="357" y="-183"/>
+      <point x="359" y="-180" type="curve"/>
+      <point x="359" y="7" type="line"/>
+      <point x="431" y="7" type="line"/>
+      <point x="435" y="10"/>
+      <point x="437" y="13"/>
+      <point x="437" y="27" type="curve"/>
+      <point x="437" y="49"/>
+      <point x="432" y="65"/>
+      <point x="421" y="65" type="curve"/>
+      <point x="359" y="65" type="line"/>
+      <point x="359" y="446" type="line" smooth="yes"/>
+      <point x="359" y="453"/>
+      <point x="355" y="456"/>
+    </contour>
+    <contour>
+      <point x="280" y="349" type="line"/>
+      <point x="280" y="65" type="line"/>
+      <point x="68" y="65" type="line"/>
+      <point x="71" y="47" type="line"/>
+      <point x="294" y="345" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-03 15:31:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

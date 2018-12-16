@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sdotbelowdotaccent" format="1">
+  <advance width="393"/>
+  <unicode hex="1E69"/>
+  <note>
+    uni1E69
+  </note>
+  <outline>
+    <component base="s"/>
+    <component base="dotbelowcomb" xOffset="54"/>
+    <component base="dotaccentcomb" xOffset="54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 09:31:45 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

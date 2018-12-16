@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildebelowcomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="116" y="-92" type="curve"/>
+      <point x="93" y="-92"/>
+      <point x="78" y="-61"/>
+      <point x="59" y="-61" type="curve"/>
+      <point x="56" y="-61"/>
+      <point x="43" y="-90"/>
+      <point x="56" y="-107" type="curve"/>
+      <point x="66" y="-112"/>
+      <point x="77" y="-104"/>
+      <point x="80" y="-96" type="curve"/>
+      <point x="88" y="-93"/>
+      <point x="86" y="-74"/>
+      <point x="107" y="-74" type="curve"/>
+      <point x="130" y="-74"/>
+      <point x="145" y="-106"/>
+      <point x="165" y="-106" type="curve"/>
+      <point x="168" y="-106"/>
+      <point x="181" y="-77"/>
+      <point x="167" y="-59" type="curve"/>
+      <point x="158" y="-54"/>
+      <point x="146" y="-63"/>
+      <point x="143" y="-71" type="curve"/>
+      <point x="136" y="-74"/>
+      <point x="138" y="-92"/>
+    </contour>
+    <contour>
+      <point x="112" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="112" y="-131" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

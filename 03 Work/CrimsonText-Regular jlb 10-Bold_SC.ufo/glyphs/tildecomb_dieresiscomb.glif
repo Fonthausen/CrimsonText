@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_dieresiscomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="-6" y="348" type="curve"/>
+      <point x="-3" y="348"/>
+      <point x="32" y="390"/>
+      <point x="41" y="390" type="curve"/>
+      <point x="85" y="390"/>
+      <point x="126" y="341"/>
+      <point x="168" y="341" type="curve"/>
+      <point x="207" y="341"/>
+      <point x="235" y="382"/>
+      <point x="235" y="411" type="curve"/>
+      <point x="235" y="421"/>
+      <point x="234" y="426"/>
+      <point x="232" y="426" type="curve"/>
+      <point x="226" y="426"/>
+      <point x="193" y="384"/>
+      <point x="186" y="384" type="curve"/>
+      <point x="143" y="384"/>
+      <point x="106" y="435"/>
+      <point x="55" y="435" type="curve"/>
+      <point x="22" y="435"/>
+      <point x="-12" y="389"/>
+      <point x="-12" y="364" type="curve"/>
+      <point x="-12" y="354"/>
+      <point x="-10" y="348"/>
+    </contour>
+    <contour>
+      <point x="45" y="439" type="curve"/>
+      <point x="72" y="439"/>
+      <point x="92" y="460"/>
+      <point x="92" y="483" type="curve"/>
+      <point x="92" y="506"/>
+      <point x="72" y="526"/>
+      <point x="45" y="526" type="curve"/>
+      <point x="18" y="526"/>
+      <point x="-2" y="506"/>
+      <point x="-2" y="483" type="curve"/>
+      <point x="-2" y="460"/>
+      <point x="18" y="439"/>
+    </contour>
+    <contour>
+      <point x="178" y="439" type="curve"/>
+      <point x="205" y="439"/>
+      <point x="226" y="460"/>
+      <point x="226" y="483" type="curve"/>
+      <point x="226" y="506"/>
+      <point x="205" y="526"/>
+      <point x="178" y="526" type="curve"/>
+      <point x="151" y="526"/>
+      <point x="131" y="506"/>
+      <point x="131" y="483" type="curve"/>
+      <point x="131" y="460"/>
+      <point x="151" y="439"/>
+    </contour>
+    <contour>
+      <point x="112" y="306" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

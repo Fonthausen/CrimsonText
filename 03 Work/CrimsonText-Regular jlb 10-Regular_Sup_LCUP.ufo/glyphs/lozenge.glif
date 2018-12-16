@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="342"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="154" y="-82" type="line"/>
+      <point x="188" y="-82" type="line"/>
+      <point x="311" y="159" type="line"/>
+      <point x="188" y="401" type="line"/>
+      <point x="154" y="401" type="line"/>
+      <point x="31" y="159" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="-35" type="line"/>
+      <point x="73" y="159" type="line"/>
+      <point x="171" y="354" type="line"/>
+      <point x="269" y="159" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 22:05:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etatonos" format="1">
+  <advance width="707"/>
+  <unicode hex="0389"/>
+  <note>
+    Etatonos
+  </note>
+  <outline>
+    <component base="tonos" xOffset="43" yOffset="235"/>
+    <component base="Eta" xOffset="-215"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

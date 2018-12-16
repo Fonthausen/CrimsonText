@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="1">
+  <advance width="743"/>
+  <unicode hex="2116"/>
+  <outline>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="743"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-15 21:38:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

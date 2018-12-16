@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_tildecomb.case" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="43" y="824" type="curve"/>
+      <point x="43" y="826"/>
+      <point x="42" y="827"/>
+      <point x="39" y="827" type="curve"/>
+      <point x="32" y="827"/>
+      <point x="21" y="819"/>
+      <point x="21" y="814" type="curve"/>
+      <point x="32" y="745"/>
+      <point x="73" y="707"/>
+      <point x="149" y="707" type="curve"/>
+      <point x="228" y="707"/>
+      <point x="273" y="752"/>
+      <point x="279" y="814" type="curve"/>
+      <point x="279" y="819"/>
+      <point x="268" y="827"/>
+      <point x="261" y="827" type="curve"/>
+      <point x="258" y="827"/>
+      <point x="257" y="826"/>
+      <point x="257" y="824" type="curve"/>
+      <point x="245" y="776"/>
+      <point x="208" y="752"/>
+      <point x="150" y="752" type="curve"/>
+      <point x="92" y="752"/>
+      <point x="55" y="776"/>
+    </contour>
+    <contour>
+      <point x="18" y="872" type="curve"/>
+      <point x="34" y="872"/>
+      <point x="31" y="908"/>
+      <point x="73" y="908" type="curve"/>
+      <point x="122" y="908"/>
+      <point x="164" y="865"/>
+      <point x="213" y="865" type="curve"/>
+      <point x="244" y="865"/>
+      <point x="291" y="898"/>
+      <point x="291" y="935" type="curve"/>
+      <point x="291" y="946"/>
+      <point x="288" y="951"/>
+      <point x="282" y="951" type="curve"/>
+      <point x="268" y="951"/>
+      <point x="271" y="916"/>
+      <point x="225" y="916" type="curve"/>
+      <point x="176" y="916"/>
+      <point x="136" y="958"/>
+      <point x="87" y="958" type="curve"/>
+      <point x="56" y="958"/>
+      <point x="9" y="925"/>
+      <point x="9" y="888" type="curve"/>
+      <point x="9" y="877"/>
+      <point x="12" y="872"/>
+    </contour>
+    <contour>
+      <point x="150" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 13:31:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

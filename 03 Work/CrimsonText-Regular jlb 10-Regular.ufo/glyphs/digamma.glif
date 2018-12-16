@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="digamma" format="1">
+  <advance width="451"/>
+  <unicode hex="03DD"/>
+  <note>
+    uni03DD
+  </note>
+  <outline>
+    <contour>
+      <point x="53" y="6" type="curve"/>
+      <point x="45" y="-93"/>
+      <point x="30" y="-187"/>
+      <point x="8" y="-277" type="curve"/>
+      <point x="15" y="-290"/>
+      <point x="22" y="-297"/>
+      <point x="31" y="-297" type="curve"/>
+      <point x="43" y="-297"/>
+      <point x="86" y="-272"/>
+      <point x="86" y="-260" type="curve"/>
+      <point x="88" y="-235"/>
+      <point x="89" y="-150"/>
+      <point x="89" y="-57" type="curve"/>
+      <point x="89" y="11"/>
+      <point x="88" y="83"/>
+      <point x="86" y="138" type="curve"/>
+      <point x="344" y="129" type="line"/>
+      <point x="358" y="134"/>
+      <point x="365" y="168"/>
+      <point x="365" y="190" type="curve"/>
+      <point x="365" y="198"/>
+      <point x="364" y="205"/>
+      <point x="362" y="208" type="curve"/>
+      <point x="82" y="206" type="line"/>
+      <point x="80" y="220"/>
+      <point x="78" y="255"/>
+      <point x="78" y="289" type="curve"/>
+      <point x="78" y="318"/>
+      <point x="79" y="347"/>
+      <point x="83" y="363" type="curve"/>
+      <point x="410" y="363" type="line"/>
+      <point x="423" y="362"/>
+      <point x="443" y="424"/>
+      <point x="443" y="437" type="curve"/>
+      <point x="443" y="448"/>
+      <point x="441" y="449"/>
+      <point x="430" y="449" type="curve"/>
+      <point x="67" y="449" type="line"/>
+      <point x="54" y="398"/>
+      <point x="43" y="368"/>
+      <point x="45" y="313" type="curve"/>
+      <point x="52" y="132"/>
+      <point x="55" y="30"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

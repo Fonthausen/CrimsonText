@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.case" format="1">
+  <advance width="300"/>
+  <note>
+    uni0302
+  </note>
+  <outline>
+    <contour>
+      <point x="256" y="707" type="curve"/>
+      <point x="262" y="707"/>
+      <point x="265" y="713"/>
+      <point x="265" y="725" type="curve"/>
+      <point x="265" y="725"/>
+      <point x="214" y="765"/>
+      <point x="202" y="774" type="curve"/>
+      <point x="192" y="782"/>
+      <point x="179" y="797"/>
+      <point x="160" y="818" type="curve"/>
+      <point x="157" y="824"/>
+      <point x="153" y="826"/>
+      <point x="149" y="826" type="curve"/>
+      <point x="147" y="826"/>
+      <point x="144" y="824"/>
+      <point x="140" y="818" type="curve"/>
+      <point x="130" y="804"/>
+      <point x="114" y="790"/>
+      <point x="97" y="776" type="curve"/>
+      <point x="87" y="767"/>
+      <point x="75" y="757"/>
+      <point x="60" y="746" type="curve"/>
+      <point x="44" y="734"/>
+      <point x="37" y="728"/>
+      <point x="35" y="725" type="curve"/>
+      <point x="35" y="713"/>
+      <point x="38" y="707"/>
+      <point x="45" y="707" type="curve"/>
+      <point x="57" y="707"/>
+      <point x="115" y="727"/>
+      <point x="149" y="750" type="curve"/>
+      <point x="184" y="727"/>
+      <point x="244" y="707"/>
+    </contour>
+    <contour>
+      <point x="150" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 13:25:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

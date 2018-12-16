@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downArrow" format="1">
+  <advance width="488"/>
+  <unicode hex="2193"/>
+  <note>
+    arrowup
+  </note>
+  <outline>
+    <contour>
+      <point x="265" y="-11" type="curve"/>
+      <point x="312" y="59"/>
+      <point x="375" y="142"/>
+      <point x="463" y="236" type="curve"/>
+      <point x="463" y="241"/>
+      <point x="455" y="256"/>
+      <point x="434" y="268" type="curve"/>
+      <point x="366" y="221"/>
+      <point x="322" y="189"/>
+      <point x="250" y="121" type="curve"/>
+      <point x="287" y="68" type="line"/>
+      <point x="287" y="674" type="line"/>
+      <point x="201" y="674" type="line"/>
+      <point x="201" y="68" type="line"/>
+      <point x="238" y="121" type="line"/>
+      <point x="166" y="189"/>
+      <point x="122" y="221"/>
+      <point x="54" y="268" type="curve"/>
+      <point x="33" y="256"/>
+      <point x="25" y="241"/>
+      <point x="25" y="236" type="curve"/>
+      <point x="113" y="142"/>
+      <point x="176" y="59"/>
+      <point x="223" y="-11" type="curve"/>
+      <point x="231" y="-16"/>
+      <point x="237" y="-18"/>
+      <point x="244" y="-18" type="curve"/>
+      <point x="251" y="-18"/>
+      <point x="257" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-14 14:17:45 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

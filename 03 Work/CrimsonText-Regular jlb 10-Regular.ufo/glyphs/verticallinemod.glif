@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinemod" format="1">
+  <advance width="600"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="277" y="645" type="line"/>
+      <point x="277" y="485" type="line"/>
+      <point x="324" y="485" type="line"/>
+      <point x="324" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="425" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="687" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-14 23:05:42 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashedzero" format="1">
+  <advance width="338"/>
+  <outline>
+    <contour>
+      <point x="169" y="-2" type="curve" smooth="yes"/>
+      <point x="250" y="-2"/>
+      <point x="306" y="82"/>
+      <point x="306" y="200" type="curve" smooth="yes"/>
+      <point x="306" y="320"/>
+      <point x="250" y="403"/>
+      <point x="169" y="403" type="curve" smooth="yes"/>
+      <point x="88" y="403"/>
+      <point x="32" y="319"/>
+      <point x="32" y="200" type="curve" smooth="yes"/>
+      <point x="32" y="83"/>
+      <point x="89" y="-2"/>
+    </contour>
+    <contour>
+      <point x="166" y="23" type="curve" smooth="yes"/>
+      <point x="121" y="23"/>
+      <point x="90" y="101"/>
+      <point x="90" y="201" type="curve" smooth="yes"/>
+      <point x="90" y="302"/>
+      <point x="123" y="378"/>
+      <point x="172" y="378" type="curve" smooth="yes"/>
+      <point x="217" y="378"/>
+      <point x="248" y="303"/>
+      <point x="248" y="204" type="curve" smooth="yes"/>
+      <point x="248" y="98"/>
+      <point x="217" y="23"/>
+    </contour>
+    <contour>
+      <point x="80" y="46" type="line"/>
+      <point x="229" y="355" type="line"/>
+      <point x="258" y="355" type="line"/>
+      <point x="108" y="46" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 22:05:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

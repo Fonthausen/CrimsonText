@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb.case" format="1">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="169" y="438" type="curve"/>
+      <point x="174" y="438"/>
+      <point x="183" y="444"/>
+      <point x="176" y="462" type="curve"/>
+      <point x="176" y="462"/>
+      <point x="139" y="493"/>
+      <point x="131" y="502" type="curve"/>
+      <point x="125" y="509"/>
+      <point x="115" y="521"/>
+      <point x="101" y="538" type="curve"/>
+      <point x="99" y="542"/>
+      <point x="96" y="544"/>
+      <point x="94" y="544" type="curve"/>
+      <point x="92" y="544"/>
+      <point x="90" y="542"/>
+      <point x="87" y="538" type="curve"/>
+      <point x="80" y="525"/>
+      <point x="69" y="515"/>
+      <point x="57" y="503" type="curve"/>
+      <point x="50" y="496"/>
+      <point x="41" y="488"/>
+      <point x="31" y="479" type="curve"/>
+      <point x="20" y="470"/>
+      <point x="14" y="464"/>
+      <point x="13" y="463" type="curve"/>
+      <point x="6" y="444"/>
+      <point x="15" y="438"/>
+      <point x="20" y="438" type="curve"/>
+      <point x="28" y="438"/>
+      <point x="69" y="465"/>
+      <point x="94" y="478" type="curve"/>
+      <point x="118" y="465"/>
+      <point x="161" y="438"/>
+    </contour>
+    <contour>
+      <point x="228" y="623" type="curve"/>
+      <point x="217" y="623"/>
+      <point x="210" y="621"/>
+      <point x="207" y="617" type="curve"/>
+      <point x="195" y="604"/>
+      <point x="148" y="538"/>
+      <point x="148" y="530" type="curve"/>
+      <point x="148" y="526"/>
+      <point x="155" y="519"/>
+      <point x="159" y="519" type="curve"/>
+      <point x="170" y="519"/>
+      <point x="257" y="583"/>
+      <point x="257" y="604" type="curve"/>
+      <point x="257" y="612"/>
+      <point x="248" y="623"/>
+    </contour>
+    <contour>
+      <point x="94" y="413" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="94" y="539" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

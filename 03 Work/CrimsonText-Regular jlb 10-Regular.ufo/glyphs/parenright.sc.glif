@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.sc" format="1">
+  <advance width="188"/>
+  <note>
+    parenright.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="118" y="214" type="curve"/>
+      <point x="118" y="78"/>
+      <point x="72" y="-37"/>
+      <point x="11" y="-81" type="curve"/>
+      <point x="10" y="-82"/>
+      <point x="10" y="-83"/>
+      <point x="10" y="-84" type="curve"/>
+      <point x="10" y="-89"/>
+      <point x="15" y="-102"/>
+      <point x="18" y="-102" type="curve"/>
+      <point x="82" y="-85"/>
+      <point x="178" y="53"/>
+      <point x="178" y="213" type="curve"/>
+      <point x="178" y="374"/>
+      <point x="82" y="514"/>
+      <point x="18" y="531" type="curve"/>
+      <point x="15" y="531"/>
+      <point x="10" y="518"/>
+      <point x="10" y="513" type="curve"/>
+      <point x="10" y="512"/>
+      <point x="10" y="511"/>
+      <point x="11" y="510" type="curve"/>
+      <point x="72" y="466"/>
+      <point x="118" y="351"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-04 12:35:51 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

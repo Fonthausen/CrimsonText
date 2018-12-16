@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itildebelow" format="1">
+  <advance width="196"/>
+  <outline>
+    <component base="i"/>
+    <component base="tildebelowcomb" xOffset="13"/>
+  </outline>
+</glyph>

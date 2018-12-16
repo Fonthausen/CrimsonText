@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="635"/>
+  <unicode hex="0394"/>
+  <note>
+    Delta
+  </note>
+  <outline>
+    <contour>
+      <point x="306" y="462" type="curve"/>
+      <point x="481" y="68" type="line"/>
+      <point x="483" y="63"/>
+      <point x="482" y="61"/>
+      <point x="478" y="61" type="curve"/>
+      <point x="124" y="61" type="line" smooth="yes"/>
+      <point x="119" y="61"/>
+      <point x="116" y="63"/>
+      <point x="116" y="68" type="curve"/>
+      <point x="116" y="69"/>
+      <point x="117" y="70"/>
+      <point x="117" y="72" type="curve"/>
+      <point x="295" y="460" type="line"/>
+      <point x="298" y="465"/>
+      <point x="301" y="465"/>
+    </contour>
+    <contour>
+      <point x="597" y="14" type="curve"/>
+      <point x="328" y="613" type="line"/>
+      <point x="313" y="613" type="line"/>
+      <point x="38" y="16" type="line"/>
+      <point x="39" y="14"/>
+      <point x="41" y="11"/>
+      <point x="42" y="8" type="curve"/>
+      <point x="43" y="5"/>
+      <point x="45" y="2"/>
+      <point x="46" y="0" type="curve"/>
+      <point x="590" y="0" type="line"/>
+      <point x="591" y="5"/>
+      <point x="594" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

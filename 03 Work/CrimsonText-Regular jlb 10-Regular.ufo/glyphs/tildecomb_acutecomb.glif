@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_acutecomb" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="213" y="514" type="curve"/>
+      <point x="244" y="514"/>
+      <point x="291" y="547"/>
+      <point x="291" y="584" type="curve"/>
+      <point x="291" y="595"/>
+      <point x="288" y="600"/>
+      <point x="282" y="600" type="curve"/>
+      <point x="268" y="600"/>
+      <point x="271" y="565"/>
+      <point x="225" y="565" type="curve"/>
+      <point x="176" y="565"/>
+      <point x="136" y="607"/>
+      <point x="87" y="607" type="curve"/>
+      <point x="56" y="607"/>
+      <point x="9" y="574"/>
+      <point x="9" y="537" type="curve"/>
+      <point x="9" y="526"/>
+      <point x="12" y="521"/>
+      <point x="18" y="521" type="curve"/>
+      <point x="34" y="521"/>
+      <point x="31" y="557"/>
+      <point x="73" y="557" type="curve"/>
+      <point x="122" y="557"/>
+      <point x="164" y="514"/>
+    </contour>
+    <contour>
+      <point x="150" y="638" type="curve"/>
+      <point x="167" y="638"/>
+      <point x="306" y="741"/>
+      <point x="306" y="774" type="curve"/>
+      <point x="306" y="786"/>
+      <point x="289" y="798"/>
+      <point x="265" y="798" type="curve"/>
+      <point x="248" y="798"/>
+      <point x="237" y="795"/>
+      <point x="231" y="789" type="curve"/>
+      <point x="215" y="771"/>
+      <point x="138" y="663"/>
+      <point x="138" y="651" type="curve"/>
+      <point x="138" y="642"/>
+      <point x="142" y="638"/>
+    </contour>
+    <contour>
+      <point x="150" y="431" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 10:50:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

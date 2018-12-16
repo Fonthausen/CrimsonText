@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="167"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="100" y="8" type="curve"/>
+      <point x="117" y="16"/>
+      <point x="122" y="36"/>
+      <point x="113" y="51" type="curve"/>
+      <point x="102" y="65"/>
+      <point x="83" y="70"/>
+      <point x="66" y="62" type="curve"/>
+      <point x="50" y="54"/>
+      <point x="42" y="33"/>
+      <point x="54" y="18" type="curve"/>
+      <point x="63" y="4"/>
+      <point x="84" y="-1"/>
+    </contour>
+    <contour>
+      <point x="100" y="231" type="curve"/>
+      <point x="117" y="240"/>
+      <point x="122" y="260"/>
+      <point x="113" y="274" type="curve"/>
+      <point x="102" y="289"/>
+      <point x="83" y="294"/>
+      <point x="66" y="286" type="curve"/>
+      <point x="50" y="278"/>
+      <point x="42" y="257"/>
+      <point x="54" y="242" type="curve"/>
+      <point x="63" y="227"/>
+      <point x="84" y="222"/>
+    </contour>
+  </outline>
+</glyph>

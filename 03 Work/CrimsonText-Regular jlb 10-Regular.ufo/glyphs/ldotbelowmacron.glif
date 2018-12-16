@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldotbelowmacron" format="1">
+  <advance width="275"/>
+  <unicode hex="1E39"/>
+  <note>
+    uni1E39
+  </note>
+  <outline>
+    <component base="l"/>
+    <component base="dotbelowcomb" xOffset="-14"/>
+    <component base="macroncomb" xOffset="-14" yOffset="227"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 11:12:27 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

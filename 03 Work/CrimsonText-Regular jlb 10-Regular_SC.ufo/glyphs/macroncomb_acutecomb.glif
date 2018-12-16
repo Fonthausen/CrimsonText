@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_acutecomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="208" y="386" type="line"/>
+      <point x="15" y="386" type="line"/>
+      <point x="15" y="357" type="line"/>
+      <point x="208" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="529" type="curve"/>
+      <point x="183" y="529"/>
+      <point x="175" y="527"/>
+      <point x="171" y="523" type="curve"/>
+      <point x="158" y="510"/>
+      <point x="102" y="437"/>
+      <point x="102" y="428" type="curve"/>
+      <point x="102" y="423"/>
+      <point x="106" y="418"/>
+      <point x="112" y="418" type="curve"/>
+      <point x="124" y="418"/>
+      <point x="228" y="489"/>
+      <point x="228" y="512" type="curve"/>
+      <point x="228" y="520"/>
+      <point x="215" y="529"/>
+    </contour>
+    <contour>
+      <point x="112" y="298" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

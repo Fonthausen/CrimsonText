@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yring" format="1">
+  <advance width="371"/>
+  <outline>
+    <component base="y"/>
+    <component base="ringcomb" xOffset="74"/>
+  </outline>
+</glyph>

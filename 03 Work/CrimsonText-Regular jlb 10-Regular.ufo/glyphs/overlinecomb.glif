@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overlinecomb" format="1">
+  <advance width="300"/>
+  <unicode hex="0305"/>
+  <note>
+    uni0305
+  </note>
+  <outline>
+    <contour>
+      <point x="-145" y="739" type="curve"/>
+      <point x="435" y="739" type="line"/>
+      <point x="436" y="740" type="line"/>
+      <point x="439" y="740"/>
+      <point x="442" y="742"/>
+      <point x="443" y="746" type="curve"/>
+      <point x="448" y="767"/>
+      <point x="451" y="783"/>
+      <point x="451" y="793" type="curve"/>
+      <point x="451" y="799"/>
+      <point x="449" y="802"/>
+      <point x="445" y="802" type="curve"/>
+      <point x="-137" y="802" type="line" smooth="yes"/>
+      <point x="-145" y="802"/>
+      <point x="-151" y="776"/>
+      <point x="-151" y="757" type="curve"/>
+      <point x="-151" y="747"/>
+      <point x="-149" y="739"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-28 22:11:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

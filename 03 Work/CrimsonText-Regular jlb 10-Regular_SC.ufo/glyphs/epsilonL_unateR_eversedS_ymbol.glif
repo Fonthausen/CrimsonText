@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonLunateReversedSymbol" format="1">
+  <advance width="361"/>
+  <outline>
+    <contour>
+      <point x="258" y="138" type="curve"/>
+      <point x="258" y="80"/>
+      <point x="211" y="31"/>
+      <point x="144" y="31" type="curve"/>
+      <point x="102" y="31"/>
+      <point x="68" y="42"/>
+      <point x="45" y="68" type="curve"/>
+      <point x="44" y="70"/>
+      <point x="41" y="71"/>
+      <point x="39" y="71" type="curve"/>
+      <point x="30" y="71"/>
+      <point x="21" y="57"/>
+      <point x="21" y="48" type="curve"/>
+      <point x="21" y="45"/>
+      <point x="23" y="41"/>
+      <point x="27" y="37" type="curve"/>
+      <point x="61" y="4"/>
+      <point x="100" y="-5"/>
+      <point x="149" y="-5" type="curve"/>
+      <point x="259" y="-5"/>
+      <point x="336" y="53"/>
+      <point x="336" y="150" type="curve"/>
+      <point x="336" y="237"/>
+      <point x="267" y="303"/>
+      <point x="158" y="303" type="curve"/>
+      <point x="103" y="303"/>
+      <point x="62" y="286"/>
+      <point x="36" y="259" type="curve"/>
+      <point x="33" y="256"/>
+      <point x="31" y="252"/>
+      <point x="31" y="249" type="curve"/>
+      <point x="31" y="241"/>
+      <point x="38" y="227"/>
+      <point x="49" y="227" type="curve"/>
+      <point x="51" y="227"/>
+      <point x="54" y="230"/>
+      <point x="57" y="233" type="curve"/>
+      <point x="81" y="259"/>
+      <point x="115" y="271"/>
+      <point x="155" y="271" type="curve"/>
+      <point x="220" y="271"/>
+      <point x="258" y="226"/>
+      <point x="258" y="174" type="curve"/>
+      <point x="258" y="171"/>
+      <point x="257" y="169"/>
+      <point x="253" y="169" type="curve"/>
+      <point x="119" y="175" type="line"/>
+      <point x="108" y="176"/>
+      <point x="103" y="168"/>
+      <point x="103" y="154" type="curve"/>
+      <point x="103" y="141"/>
+      <point x="110" y="134"/>
+      <point x="119" y="135" type="curve"/>
+      <point x="253" y="143" type="line"/>
+      <point x="257" y="143"/>
+      <point x="258" y="141"/>
+    </contour>
+  </outline>
+</glyph>

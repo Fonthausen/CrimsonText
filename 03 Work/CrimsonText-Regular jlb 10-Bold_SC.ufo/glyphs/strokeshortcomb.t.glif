@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb.t" format="1">
+  <advance width="282"/>
+  <outline>
+    <contour>
+      <point x="244" y="203" type="line"/>
+      <point x="-5" y="203" type="line"/>
+      <point x="-5" y="169" type="line"/>
+      <point x="244" y="169" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="186" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

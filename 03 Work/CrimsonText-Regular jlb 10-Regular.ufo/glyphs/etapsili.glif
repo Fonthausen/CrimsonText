@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etapsili" format="1">
+  <advance width="533"/>
+  <unicode hex="1F20"/>
+  <note>
+    uni1F20
+  </note>
+  <outline>
+    <component base="psili" xOffset="52" yOffset="8"/>
+    <component base="eta"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

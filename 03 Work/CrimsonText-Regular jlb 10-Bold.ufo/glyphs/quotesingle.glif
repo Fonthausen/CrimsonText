@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="221"/>
+  <unicode hex="0027"/>
+  <note>
+    quotesingle
+  </note>
+  <outline>
+    <contour>
+      <point x="110" y="698" type="curve"/>
+      <point x="66" y="698"/>
+      <point x="39" y="671"/>
+      <point x="39" y="629" type="curve"/>
+      <point x="39" y="588"/>
+      <point x="81" y="495"/>
+      <point x="85" y="419" type="curve"/>
+      <point x="86" y="399"/>
+      <point x="93" y="391"/>
+      <point x="110" y="391" type="curve"/>
+      <point x="128" y="391"/>
+      <point x="135" y="399"/>
+      <point x="136" y="419" type="curve"/>
+      <point x="140" y="495"/>
+      <point x="182" y="588"/>
+      <point x="182" y="629" type="curve"/>
+      <point x="182" y="671"/>
+      <point x="154" y="698"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-05 14:22:32 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

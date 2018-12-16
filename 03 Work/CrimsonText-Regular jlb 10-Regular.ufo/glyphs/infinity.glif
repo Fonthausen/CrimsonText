@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="infinity" format="1">
+  <advance width="882"/>
+  <unicode hex="221E"/>
+  <note>
+    infinity
+  </note>
+  <outline>
+    <contour>
+      <point x="50" y="242" type="curve"/>
+      <point x="50" y="129"/>
+      <point x="129" y="55"/>
+      <point x="220" y="55" type="curve"/>
+      <point x="309" y="55"/>
+      <point x="382" y="118"/>
+      <point x="442" y="205" type="curve"/>
+      <point x="423" y="254" type="line"/>
+      <point x="355" y="158"/>
+      <point x="302" y="110"/>
+      <point x="231" y="110" type="curve"/>
+      <point x="174" y="110"/>
+      <point x="117" y="152"/>
+      <point x="117" y="255" type="curve"/>
+      <point x="117" y="320"/>
+      <point x="159" y="377"/>
+      <point x="233" y="377" type="curve"/>
+      <point x="387" y="377"/>
+      <point x="415" y="55"/>
+      <point x="643" y="55" type="curve"/>
+      <point x="735" y="55"/>
+      <point x="832" y="120"/>
+      <point x="832" y="250" type="curve"/>
+      <point x="832" y="363"/>
+      <point x="753" y="437"/>
+      <point x="662" y="437" type="curve"/>
+      <point x="573" y="437"/>
+      <point x="500" y="374"/>
+      <point x="440" y="287" type="curve"/>
+      <point x="459" y="238" type="line"/>
+      <point x="527" y="334"/>
+      <point x="580" y="382"/>
+      <point x="651" y="382" type="curve"/>
+      <point x="708" y="382"/>
+      <point x="765" y="340"/>
+      <point x="765" y="237" type="curve"/>
+      <point x="765" y="172"/>
+      <point x="723" y="115"/>
+      <point x="649" y="115" type="curve"/>
+      <point x="494" y="115"/>
+      <point x="467" y="437"/>
+      <point x="239" y="437" type="curve"/>
+      <point x="147" y="437"/>
+      <point x="50" y="372"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-12 22:06:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

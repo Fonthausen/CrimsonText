@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringbelowcomb" format="1">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="95" y="-140" type="curve"/>
+      <point x="127" y="-140"/>
+      <point x="153" y="-114"/>
+      <point x="153" y="-82" type="curve"/>
+      <point x="153" y="-50"/>
+      <point x="128" y="-25"/>
+      <point x="95" y="-25" type="curve"/>
+      <point x="62" y="-25"/>
+      <point x="35" y="-50"/>
+      <point x="35" y="-82" type="curve"/>
+      <point x="35" y="-115"/>
+      <point x="62" y="-140"/>
+    </contour>
+    <contour>
+      <point x="95" y="-117" type="curve"/>
+      <point x="76" y="-117"/>
+      <point x="62" y="-102"/>
+      <point x="62" y="-82" type="curve"/>
+      <point x="62" y="-61"/>
+      <point x="76" y="-47"/>
+      <point x="95" y="-47" type="curve"/>
+      <point x="115" y="-47"/>
+      <point x="128" y="-61"/>
+      <point x="128" y="-82" type="curve"/>
+      <point x="128" y="-103"/>
+      <point x="115" y="-117"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="94" y="-119" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron" format="1">
+  <advance width="487"/>
+  <unicode hex="03BF"/>
+  <note>
+    omicron
+  </note>
+  <outline>
+    <contour>
+      <point x="367" y="240" type="curve"/>
+      <point x="367" y="125"/>
+      <point x="312" y="31"/>
+      <point x="225" y="31" type="curve"/>
+      <point x="157" y="31"/>
+      <point x="119" y="104"/>
+      <point x="119" y="191" type="curve"/>
+      <point x="119" y="306"/>
+      <point x="173" y="400"/>
+      <point x="257" y="400" type="curve"/>
+      <point x="325" y="400"/>
+      <point x="367" y="325"/>
+    </contour>
+    <contour>
+      <point x="240" y="439" type="curve"/>
+      <point x="128" y="439"/>
+      <point x="37" y="346"/>
+      <point x="37" y="215" type="curve"/>
+      <point x="37" y="95"/>
+      <point x="119" y="-8"/>
+      <point x="243" y="-8" type="curve"/>
+      <point x="355" y="-8"/>
+      <point x="449" y="90"/>
+      <point x="449" y="218" type="curve"/>
+      <point x="449" y="337"/>
+      <point x="364" y="439"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

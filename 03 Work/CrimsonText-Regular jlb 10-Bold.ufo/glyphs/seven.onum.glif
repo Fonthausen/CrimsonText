@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.onum" format="1">
+  <advance width="484"/>
+  <note>
+    seven.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="163" y="-193" type="curve"/>
+      <point x="166" y="-193"/>
+      <point x="168" y="-193"/>
+      <point x="170" y="-192" type="curve"/>
+      <point x="432" y="383" type="line" smooth="yes"/>
+      <point x="452" y="426"/>
+      <point x="459" y="441"/>
+      <point x="459" y="450" type="curve"/>
+      <point x="459" y="456"/>
+      <point x="457" y="459"/>
+      <point x="452" y="459" type="curve"/>
+      <point x="426" y="459"/>
+      <point x="403" y="456"/>
+      <point x="385" y="456" type="curve"/>
+      <point x="90" y="456" type="line" smooth="yes"/>
+      <point x="79" y="456"/>
+      <point x="73" y="452"/>
+      <point x="71" y="444" type="curve"/>
+      <point x="58" y="393"/>
+      <point x="47" y="339"/>
+      <point x="27" y="265" type="curve"/>
+      <point x="30" y="262"/>
+      <point x="38" y="260"/>
+      <point x="46" y="260" type="curve"/>
+      <point x="58" y="260"/>
+      <point x="70" y="263"/>
+      <point x="72" y="267" type="curve"/>
+      <point x="88" y="316"/>
+      <point x="99" y="354"/>
+      <point x="145" y="354" type="curve"/>
+      <point x="366" y="354" type="line"/>
+      <point x="104" y="-159" type="line"/>
+      <point x="104" y="-177"/>
+      <point x="134" y="-193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-03 15:31:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

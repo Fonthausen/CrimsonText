@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="1">
+  <advance width="223"/>
+  <unicode hex="0309"/>
+  <outline>
+    <contour>
+      <point x="116" y="422" type="curve"/>
+      <point x="129" y="422"/>
+      <point x="139" y="415"/>
+      <point x="139" y="403" type="curve"/>
+      <point x="139" y="377"/>
+      <point x="93" y="367"/>
+      <point x="93" y="349" type="curve"/>
+      <point x="93" y="339"/>
+      <point x="103" y="330"/>
+      <point x="117" y="330" type="curve"/>
+      <point x="124" y="330"/>
+      <point x="130" y="334"/>
+      <point x="131" y="336" type="curve"/>
+      <point x="129" y="339"/>
+      <point x="127" y="343"/>
+      <point x="127" y="346" type="curve"/>
+      <point x="127" y="361"/>
+      <point x="181" y="376"/>
+      <point x="181" y="408" type="curve"/>
+      <point x="181" y="431"/>
+      <point x="159" y="447"/>
+      <point x="126" y="447" type="curve"/>
+      <point x="82" y="447"/>
+      <point x="51" y="423"/>
+      <point x="51" y="406" type="curve"/>
+      <point x="51" y="398"/>
+      <point x="57" y="392"/>
+      <point x="76" y="390" type="curve"/>
+      <point x="82" y="409"/>
+      <point x="96" y="422"/>
+    </contour>
+    <contour>
+      <point x="112" y="298" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

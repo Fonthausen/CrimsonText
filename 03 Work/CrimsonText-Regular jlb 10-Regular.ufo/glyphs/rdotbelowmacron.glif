@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rdotbelowmacron" format="1">
+  <advance width="361"/>
+  <unicode hex="1E5D"/>
+  <note>
+    uni1E5D
+  </note>
+  <outline>
+    <component base="r"/>
+    <component base="dotbelowcomb" xOffset="-10"/>
+    <component base="macroncomb" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 11:12:27 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

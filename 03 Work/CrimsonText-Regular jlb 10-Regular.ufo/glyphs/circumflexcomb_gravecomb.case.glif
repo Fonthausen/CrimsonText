@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_gravecomb.case" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="256" y="707" type="curve"/>
+      <point x="262" y="707"/>
+      <point x="265" y="715"/>
+      <point x="265" y="730" type="curve"/>
+      <point x="265" y="730"/>
+      <point x="214" y="779"/>
+      <point x="202" y="791" type="curve"/>
+      <point x="192" y="801"/>
+      <point x="179" y="820"/>
+      <point x="160" y="846" type="curve"/>
+      <point x="157" y="853"/>
+      <point x="153" y="856"/>
+      <point x="149" y="856" type="curve"/>
+      <point x="147" y="856"/>
+      <point x="144" y="853"/>
+      <point x="140" y="846" type="curve"/>
+      <point x="130" y="828"/>
+      <point x="114" y="811"/>
+      <point x="97" y="793" type="curve"/>
+      <point x="87" y="782"/>
+      <point x="75" y="770"/>
+      <point x="60" y="756" type="curve"/>
+      <point x="44" y="741"/>
+      <point x="37" y="733"/>
+      <point x="35" y="730" type="curve"/>
+      <point x="35" y="715"/>
+      <point x="38" y="707"/>
+      <point x="45" y="707" type="curve"/>
+      <point x="57" y="707"/>
+      <point x="115" y="745"/>
+      <point x="149" y="773" type="curve"/>
+      <point x="184" y="745"/>
+      <point x="244" y="707"/>
+    </contour>
+    <contour>
+      <point x="94" y="971" type="curve"/>
+      <point x="94" y="938"/>
+      <point x="232" y="835"/>
+      <point x="250" y="835" type="curve"/>
+      <point x="258" y="835"/>
+      <point x="262" y="839"/>
+      <point x="262" y="848" type="curve"/>
+      <point x="262" y="860"/>
+      <point x="187" y="965"/>
+      <point x="169" y="986" type="curve"/>
+      <point x="163" y="992"/>
+      <point x="151" y="995"/>
+      <point x="135" y="995" type="curve"/>
+      <point x="110" y="995"/>
+      <point x="94" y="983"/>
+    </contour>
+    <contour>
+      <point x="150" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 13:31:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

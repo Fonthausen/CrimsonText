@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_acutecomb" format="1">
+  <advance width="188"/>
+  <outline>
+    <contour>
+      <point x="94" y="382" type="curve" smooth="yes"/>
+      <point x="105" y="382"/>
+      <point x="192" y="447"/>
+      <point x="192" y="467" type="curve" smooth="yes"/>
+      <point x="192" y="475"/>
+      <point x="182" y="483"/>
+      <point x="166" y="483" type="curve" smooth="yes"/>
+      <point x="155" y="483"/>
+      <point x="149" y="481"/>
+      <point x="145" y="477" type="curve"/>
+      <point x="135" y="465"/>
+      <point x="86" y="398"/>
+      <point x="86" y="390" type="curve" smooth="yes"/>
+      <point x="86" y="385"/>
+      <point x="89" y="382"/>
+    </contour>
+    <contour>
+      <point x="48" y="301" type="curve" smooth="yes"/>
+      <point x="64" y="301"/>
+      <point x="78" y="316"/>
+      <point x="78" y="332" type="curve" smooth="yes"/>
+      <point x="78" y="347"/>
+      <point x="64" y="362"/>
+      <point x="48" y="362" type="curve" smooth="yes"/>
+      <point x="31" y="362"/>
+      <point x="18" y="347"/>
+      <point x="18" y="332" type="curve" smooth="yes"/>
+      <point x="18" y="316"/>
+      <point x="31" y="301"/>
+    </contour>
+    <contour>
+      <point x="141" y="301" type="curve" smooth="yes"/>
+      <point x="157" y="301"/>
+      <point x="171" y="316"/>
+      <point x="171" y="332" type="curve" smooth="yes"/>
+      <point x="171" y="347"/>
+      <point x="157" y="362"/>
+      <point x="141" y="362" type="curve" smooth="yes"/>
+      <point x="124" y="362"/>
+      <point x="111" y="347"/>
+      <point x="111" y="332" type="curve" smooth="yes"/>
+      <point x="111" y="316"/>
+      <point x="124" y="301"/>
+    </contour>
+    <contour>
+      <point x="94" y="271" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="94" y="402" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-16 22:05:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

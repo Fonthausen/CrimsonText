@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ThetaSymbol" format="1">
+  <advance width="728"/>
+  <unicode hex="03F4"/>
+  <note>
+    uni03F4
+  </note>
+  <outline>
+    <contour>
+      <point x="348" y="624" type="curve"/>
+      <point x="495" y="624"/>
+      <point x="585" y="477"/>
+      <point x="585" y="309" type="curve"/>
+      <point x="585" y="216"/>
+      <point x="556" y="130"/>
+      <point x="492" y="75" type="curve"/>
+      <point x="460" y="47"/>
+      <point x="423" y="33"/>
+      <point x="380" y="33" type="curve"/>
+      <point x="281" y="33"/>
+      <point x="205" y="105"/>
+      <point x="170" y="199" type="curve"/>
+      <point x="153" y="246"/>
+      <point x="144" y="296"/>
+      <point x="144" y="350" type="curve"/>
+      <point x="144" y="495"/>
+      <point x="221" y="624"/>
+    </contour>
+    <contour>
+      <point x="44" y="327" type="curve"/>
+      <point x="44" y="142"/>
+      <point x="188" y="-10"/>
+      <point x="364" y="-10" type="curve"/>
+      <point x="540" y="-10"/>
+      <point x="683" y="142"/>
+      <point x="683" y="327" type="curve"/>
+      <point x="683" y="515"/>
+      <point x="540" y="666"/>
+      <point x="364" y="666" type="curve"/>
+      <point x="188" y="666"/>
+      <point x="44" y="515"/>
+    </contour>
+    <contour>
+      <point x="137" y="316" type="curve"/>
+      <point x="137" y="365" type="line"/>
+      <point x="213" y="364"/>
+      <point x="290" y="364"/>
+      <point x="366" y="364" type="curve"/>
+      <point x="442" y="364"/>
+      <point x="519" y="364"/>
+      <point x="595" y="365" type="curve"/>
+      <point x="595" y="316" type="line"/>
+      <point x="519" y="317"/>
+      <point x="442" y="318"/>
+      <point x="366" y="318" type="curve"/>
+      <point x="290" y="318"/>
+      <point x="213" y="317"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-30 09:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

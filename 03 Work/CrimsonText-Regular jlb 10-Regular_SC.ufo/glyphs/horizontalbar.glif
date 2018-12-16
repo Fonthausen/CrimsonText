@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horizontalbar" format="1">
+  <advance width="744"/>
+  <outline>
+    <contour>
+      <point x="722" y="182" type="curve"/>
+      <point x="31" y="182" type="line" smooth="yes"/>
+      <point x="24" y="182"/>
+      <point x="20" y="158"/>
+      <point x="20" y="149" type="curve"/>
+      <point x="20" y="143"/>
+      <point x="21" y="139"/>
+      <point x="22" y="136" type="curve"/>
+      <point x="713" y="136" type="line" smooth="yes"/>
+      <point x="720" y="136"/>
+      <point x="724" y="160"/>
+      <point x="724" y="169" type="curve"/>
+      <point x="724" y="175"/>
+      <point x="723" y="179"/>
+    </contour>
+  </outline>
+</glyph>

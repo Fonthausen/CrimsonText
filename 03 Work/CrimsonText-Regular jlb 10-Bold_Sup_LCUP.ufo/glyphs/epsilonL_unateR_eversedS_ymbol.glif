@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonLunateReversedSymbol" format="1">
+  <advance width="321"/>
+  <outline>
+    <contour>
+      <point x="215" y="122" type="curve"/>
+      <point x="215" y="74"/>
+      <point x="173" y="38"/>
+      <point x="123" y="38" type="curve"/>
+      <point x="94" y="38"/>
+      <point x="62" y="46"/>
+      <point x="38" y="71" type="curve"/>
+      <point x="37" y="73"/>
+      <point x="35" y="74"/>
+      <point x="33" y="74" type="curve"/>
+      <point x="25" y="74"/>
+      <point x="13" y="56"/>
+      <point x="13" y="42" type="curve"/>
+      <point x="13" y="39"/>
+      <point x="14" y="35"/>
+      <point x="17" y="32" type="curve"/>
+      <point x="42" y="9"/>
+      <point x="71" y="-4"/>
+      <point x="131" y="-4" type="curve"/>
+      <point x="233" y="-4"/>
+      <point x="306" y="50"/>
+      <point x="306" y="139" type="curve"/>
+      <point x="306" y="220"/>
+      <point x="240" y="282"/>
+      <point x="138" y="282" type="curve"/>
+      <point x="90" y="282"/>
+      <point x="48" y="265"/>
+      <point x="26" y="241" type="curve"/>
+      <point x="22" y="237"/>
+      <point x="21" y="234"/>
+      <point x="21" y="231" type="curve"/>
+      <point x="21" y="219"/>
+      <point x="33" y="203"/>
+      <point x="42" y="203" type="curve"/>
+      <point x="44" y="203"/>
+      <point x="47" y="206"/>
+      <point x="50" y="209" type="curve"/>
+      <point x="72" y="233"/>
+      <point x="106" y="242"/>
+      <point x="132" y="242" type="curve"/>
+      <point x="181" y="242"/>
+      <point x="215" y="210"/>
+      <point x="215" y="166" type="curve"/>
+      <point x="215" y="162"/>
+      <point x="214" y="160"/>
+      <point x="211" y="160" type="curve"/>
+      <point x="104" y="168" type="line"/>
+      <point x="95" y="168"/>
+      <point x="90" y="161"/>
+      <point x="90" y="141" type="curve"/>
+      <point x="90" y="124"/>
+      <point x="97" y="117"/>
+      <point x="104" y="118" type="curve"/>
+      <point x="211" y="126" type="line"/>
+      <point x="214" y="126"/>
+      <point x="215" y="124"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notelement" format="1">
+  <advance width="336"/>
+  <unicode hex="2209"/>
+  <outline>
+    <contour>
+      <point x="68" y="169" type="curve"/>
+      <point x="68" y="234"/>
+      <point x="107" y="277"/>
+      <point x="166" y="277" type="curve"/>
+      <point x="309" y="277" type="line"/>
+      <point x="309" y="311" type="line"/>
+      <point x="171" y="311" type="line" smooth="yes"/>
+      <point x="83" y="311"/>
+      <point x="20" y="250"/>
+      <point x="20" y="169" type="curve"/>
+      <point x="20" y="89"/>
+      <point x="83" y="27"/>
+      <point x="171" y="27" type="curve"/>
+      <point x="309" y="27" type="line"/>
+      <point x="309" y="62" type="line"/>
+      <point x="166" y="62" type="line" smooth="yes"/>
+      <point x="113" y="62"/>
+      <point x="68" y="105"/>
+    </contour>
+    <contour>
+      <point x="282" y="186" type="line"/>
+      <point x="57" y="186" type="line"/>
+      <point x="57" y="152" type="line"/>
+      <point x="282" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="-20" type="line"/>
+      <point x="285" y="359" type="line"/>
+      <point x="245" y="359" type="line"/>
+      <point x="88" y="-20" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caretSign" format="1">
+  <advance width="254"/>
+  <outline>
+    <contour>
+      <point x="209" y="-14" type="curve"/>
+      <point x="214" y="-14"/>
+      <point x="218" y="-8"/>
+      <point x="216" y="5" type="curve"/>
+      <point x="216" y="5"/>
+      <point x="176" y="39"/>
+      <point x="167" y="47" type="curve"/>
+      <point x="160" y="54"/>
+      <point x="149" y="67"/>
+      <point x="135" y="86" type="curve"/>
+      <point x="133" y="90"/>
+      <point x="129" y="92"/>
+      <point x="126" y="92" type="curve"/>
+      <point x="125" y="92"/>
+      <point x="122" y="90"/>
+      <point x="120" y="86" type="curve"/>
+      <point x="112" y="73"/>
+      <point x="99" y="61"/>
+      <point x="86" y="49" type="curve"/>
+      <point x="79" y="41"/>
+      <point x="69" y="33"/>
+      <point x="58" y="23" type="curve"/>
+      <point x="46" y="13"/>
+      <point x="40" y="7"/>
+      <point x="39" y="5" type="curve"/>
+      <point x="36" y="-8"/>
+      <point x="41" y="-14"/>
+      <point x="46" y="-14" type="curve"/>
+      <point x="55" y="-14"/>
+      <point x="100" y="13"/>
+      <point x="126" y="31" type="curve"/>
+      <point x="153" y="13"/>
+      <point x="200" y="-14"/>
+    </contour>
+  </outline>
+</glyph>

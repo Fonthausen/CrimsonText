@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="1">
+  <advance width="223"/>
+  <outline>
+    <contour>
+      <point x="243" y="441" type="curve"/>
+      <point x="231" y="441"/>
+      <point x="223" y="439"/>
+      <point x="218" y="435" type="curve"/>
+      <point x="205" y="422"/>
+      <point x="149" y="349"/>
+      <point x="149" y="340" type="curve"/>
+      <point x="149" y="334"/>
+      <point x="153" y="330"/>
+      <point x="159" y="330" type="curve"/>
+      <point x="172" y="330"/>
+      <point x="275" y="401"/>
+      <point x="275" y="424" type="curve"/>
+      <point x="275" y="432"/>
+      <point x="263" y="441"/>
+    </contour>
+    <contour>
+      <point x="146" y="441" type="curve"/>
+      <point x="133" y="441"/>
+      <point x="125" y="439"/>
+      <point x="121" y="435" type="curve"/>
+      <point x="108" y="422"/>
+      <point x="51" y="349"/>
+      <point x="51" y="340" type="curve"/>
+      <point x="51" y="334"/>
+      <point x="56" y="330"/>
+      <point x="62" y="330" type="curve"/>
+      <point x="74" y="330"/>
+      <point x="178" y="401"/>
+      <point x="178" y="424" type="curve"/>
+      <point x="178" y="432"/>
+      <point x="165" y="441"/>
+    </contour>
+    <contour>
+      <point x="112" y="298" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="112" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

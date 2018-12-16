@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="1">
+  <advance width="522"/>
+  <unicode hex="01A1"/>
+  <note>
+    ohorn
+  </note>
+  <outline>
+    <contour>
+      <point x="406" y="398" type="curve"/>
+      <point x="395" y="377" type="line"/>
+      <point x="454" y="371"/>
+      <point x="501" y="410"/>
+      <point x="501" y="459" type="curve"/>
+      <point x="501" y="483"/>
+      <point x="487" y="518"/>
+      <point x="450" y="518" type="curve"/>
+      <point x="425" y="518"/>
+      <point x="403" y="505"/>
+      <point x="403" y="478" type="curve"/>
+      <point x="403" y="462"/>
+      <point x="422" y="442"/>
+      <point x="422" y="433" type="curve"/>
+      <point x="422" y="422"/>
+      <point x="416" y="417"/>
+      <point x="401" y="417" type="curve"/>
+      <point x="364" y="417"/>
+      <point x="334" y="447"/>
+      <point x="257" y="447" type="curve"/>
+      <point x="127" y="447"/>
+      <point x="26" y="349"/>
+      <point x="26" y="221" type="curve"/>
+      <point x="26" y="89"/>
+      <point x="125" y="-7"/>
+      <point x="263" y="-7" type="curve"/>
+      <point x="396" y="-7"/>
+      <point x="496" y="89"/>
+      <point x="496" y="221" type="curve"/>
+      <point x="496" y="292"/>
+      <point x="460" y="356"/>
+    </contour>
+    <contour>
+      <point x="278" y="49" type="curve"/>
+      <point x="217" y="49"/>
+      <point x="168" y="139"/>
+      <point x="168" y="240" type="curve"/>
+      <point x="168" y="341"/>
+      <point x="194" y="391"/>
+      <point x="244" y="391" type="curve"/>
+      <point x="301" y="391"/>
+      <point x="354" y="303"/>
+      <point x="354" y="205" type="curve"/>
+      <point x="354" y="104"/>
+      <point x="328" y="49"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="262" y="439" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-28 09:52:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

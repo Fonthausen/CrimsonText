@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_acutecomb.case" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="280" y="784" type="line"/>
+      <point x="20" y="784" type="line"/>
+      <point x="20" y="734" type="line"/>
+      <point x="280" y="734" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="992" type="curve"/>
+      <point x="243" y="992"/>
+      <point x="232" y="989"/>
+      <point x="226" y="983" type="curve"/>
+      <point x="208" y="962"/>
+      <point x="133" y="857"/>
+      <point x="133" y="845" type="curve"/>
+      <point x="133" y="838"/>
+      <point x="143" y="827"/>
+      <point x="150" y="827" type="curve"/>
+      <point x="167" y="827"/>
+      <point x="306" y="930"/>
+      <point x="306" y="963" type="curve"/>
+      <point x="306" y="975"/>
+      <point x="291" y="992"/>
+    </contour>
+    <contour>
+      <point x="150" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="859" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 13:31:11 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

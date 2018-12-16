@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilivaria" format="1">
+  <advance width="300"/>
+  <unicode hex="1FCD"/>
+  <note>
+    uni1FCD
+  </note>
+  <outline>
+    <contour>
+      <point x="67" y="683" type="curve"/>
+      <point x="48" y="683"/>
+      <point x="20" y="657"/>
+      <point x="20" y="642" type="curve"/>
+      <point x="20" y="639"/>
+      <point x="21" y="637"/>
+      <point x="24" y="636" type="curve"/>
+      <point x="72" y="615"/>
+      <point x="97" y="589"/>
+      <point x="97" y="560" type="curve"/>
+      <point x="97" y="536"/>
+      <point x="83" y="517"/>
+      <point x="56" y="503" type="curve"/>
+      <point x="58" y="496"/>
+      <point x="62" y="493"/>
+      <point x="69" y="493" type="curve"/>
+      <point x="95" y="493"/>
+      <point x="141" y="539"/>
+      <point x="141" y="590" type="curve"/>
+      <point x="141" y="639"/>
+      <point x="105" y="683"/>
+    </contour>
+    <contour>
+      <point x="193" y="704" type="curve"/>
+      <point x="175" y="704"/>
+      <point x="167" y="696"/>
+      <point x="167" y="681" type="curve"/>
+      <point x="167" y="637"/>
+      <point x="252" y="498"/>
+      <point x="266" y="493" type="curve"/>
+      <point x="269" y="493" type="line" smooth="yes"/>
+      <point x="273" y="493"/>
+      <point x="281" y="498"/>
+      <point x="281" y="502" type="curve"/>
+      <point x="281" y="515"/>
+      <point x="256" y="628"/>
+      <point x="239" y="679" type="curve"/>
+      <point x="235" y="690"/>
+      <point x="210" y="704"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 09:07:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

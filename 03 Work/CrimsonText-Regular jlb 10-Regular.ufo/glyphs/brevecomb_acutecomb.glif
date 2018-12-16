@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_acutecomb" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="63" y="597" type="curve"/>
+      <point x="63" y="599"/>
+      <point x="62" y="600"/>
+      <point x="59" y="600" type="curve"/>
+      <point x="52" y="600"/>
+      <point x="41" y="592"/>
+      <point x="41" y="587" type="curve"/>
+      <point x="52" y="518"/>
+      <point x="93" y="480"/>
+      <point x="149" y="480" type="curve"/>
+      <point x="208" y="480"/>
+      <point x="253" y="525"/>
+      <point x="259" y="587" type="curve"/>
+      <point x="259" y="592"/>
+      <point x="248" y="600"/>
+      <point x="241" y="600" type="curve"/>
+      <point x="238" y="600"/>
+      <point x="237" y="599"/>
+      <point x="237" y="597" type="curve"/>
+      <point x="225" y="549"/>
+      <point x="188" y="525"/>
+      <point x="150" y="525" type="curve"/>
+      <point x="112" y="525"/>
+      <point x="75" y="549"/>
+    </contour>
+    <contour>
+      <point x="265" y="768" type="curve"/>
+      <point x="248" y="768"/>
+      <point x="237" y="765"/>
+      <point x="231" y="759" type="curve"/>
+      <point x="215" y="741"/>
+      <point x="138" y="633"/>
+      <point x="138" y="621" type="curve"/>
+      <point x="138" y="612"/>
+      <point x="142" y="608"/>
+      <point x="150" y="608" type="curve"/>
+      <point x="167" y="608"/>
+      <point x="306" y="711"/>
+      <point x="306" y="744" type="curve"/>
+      <point x="306" y="756"/>
+      <point x="289" y="768"/>
+    </contour>
+    <contour>
+      <point x="150" y="431" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="150" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-29 10:50:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>
