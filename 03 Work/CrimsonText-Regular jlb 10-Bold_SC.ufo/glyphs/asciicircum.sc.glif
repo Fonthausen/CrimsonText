@@ -2,6 +2,21 @@
 <glyph name="asciicircum.sc" format="1">
   <advance width="0"/>
   <outline>
-    <component base="asciicircum"/>
+    <contour>
+      <point x="320" y="81" type="line"/>
+      <point x="385" y="110" type="line"/>
+      <point x="243" y="369" type="line"/>
+      <point x="179" y="369" type="line"/>
+      <point x="37" y="110" type="line"/>
+      <point x="102" y="81" type="line"/>
+      <point x="226" y="308" type="line"/>
+      <point x="196" y="308" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

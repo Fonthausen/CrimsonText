@@ -2,6 +2,17 @@
 <glyph name="divisionslash" format="1">
   <advance width="317"/>
   <outline>
-    <component base="slash"/>
+    <contour>
+      <point x="83" y="-19" type="line"/>
+      <point x="308" y="519" type="line"/>
+      <point x="240" y="519" type="line"/>
+      <point x="15" y="-19" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

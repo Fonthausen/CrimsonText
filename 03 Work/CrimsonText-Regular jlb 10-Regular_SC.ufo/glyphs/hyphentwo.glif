@@ -2,6 +2,27 @@
 <glyph name="hyphentwo" format="1">
   <advance width="300"/>
   <outline>
-    <component base="hyphen"/>
+    <contour>
+      <point x="37" y="145" type="curve"/>
+      <point x="37" y="140"/>
+      <point x="39" y="137"/>
+      <point x="42" y="136" type="curve"/>
+      <point x="225" y="143" type="line"/>
+      <point x="229" y="150"/>
+      <point x="231" y="163"/>
+      <point x="231" y="179" type="curve"/>
+      <point x="231" y="185"/>
+      <point x="230" y="188"/>
+      <point x="227" y="189" type="curve"/>
+      <point x="46" y="181" type="line"/>
+      <point x="40" y="180"/>
+      <point x="37" y="168"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:42:45 +0000</string>
+    </dict>
+  </lib>
 </glyph>

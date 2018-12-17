@@ -2,32 +2,95 @@
 <glyph name="Ccedilla.sc" format="1">
   <advance width="484"/>
   <outline>
-    <component base="C"/>
-    <component base="cedillacomb" xOffset="144"/>
+    <contour>
+      <point x="301" y="-5" type="curve"/>
+      <point x="345" y="-5"/>
+      <point x="375" y="4"/>
+      <point x="433" y="22" type="curve"/>
+      <point x="440" y="24"/>
+      <point x="465" y="94"/>
+      <point x="465" y="122" type="curve"/>
+      <point x="465" y="128"/>
+      <point x="452" y="130"/>
+      <point x="427" y="130" type="curve"/>
+      <point x="420" y="112"/>
+      <point x="412" y="93"/>
+      <point x="399" y="76" type="curve"/>
+      <point x="380" y="53"/>
+      <point x="350" y="37"/>
+      <point x="309" y="37" type="curve"/>
+      <point x="231" y="37"/>
+      <point x="176" y="113"/>
+      <point x="176" y="237" type="curve"/>
+      <point x="176" y="359"/>
+      <point x="215" y="414"/>
+      <point x="301" y="414" type="curve"/>
+      <point x="357" y="414"/>
+      <point x="413" y="381"/>
+      <point x="430" y="326" type="curve"/>
+      <point x="448" y="323"/>
+      <point x="456" y="323"/>
+      <point x="467" y="326" type="curve"/>
+      <point x="465" y="362"/>
+      <point x="455" y="432"/>
+      <point x="441" y="437" type="curve"/>
+      <point x="395" y="451"/>
+      <point x="336" y="459"/>
+      <point x="299" y="459" type="curve"/>
+      <point x="157" y="459"/>
+      <point x="31" y="361"/>
+      <point x="31" y="222" type="curve"/>
+      <point x="31" y="83"/>
+      <point x="143" y="-5"/>
+    </contour>
+    <contour>
+      <point x="251" y="-33" type="curve"/>
+      <point x="285" y="4" type="line"/>
+      <point x="245" y="4" type="line"/>
+      <point x="229" y="-18"/>
+      <point x="200" y="-50"/>
+      <point x="192" y="-60" type="curve"/>
+      <point x="191" y="-63"/>
+      <point x="202" y="-75"/>
+      <point x="208" y="-75" type="curve"/>
+      <point x="222" y="-70"/>
+      <point x="232" y="-68"/>
+      <point x="244" y="-68" type="curve"/>
+      <point x="269" y="-68"/>
+      <point x="280" y="-83"/>
+      <point x="280" y="-96" type="curve"/>
+      <point x="280" y="-118"/>
+      <point x="262" y="-132"/>
+      <point x="234" y="-132" type="curve"/>
+      <point x="206" y="-132"/>
+      <point x="191" y="-114"/>
+      <point x="177" y="-114" type="curve"/>
+      <point x="168" y="-114"/>
+      <point x="157" y="-126"/>
+      <point x="157" y="-134" type="curve"/>
+      <point x="157" y="-152"/>
+      <point x="190" y="-159"/>
+      <point x="218" y="-159" type="curve"/>
+      <point x="296" y="-159"/>
+      <point x="336" y="-125"/>
+      <point x="336" y="-80" type="curve"/>
+      <point x="336" y="-44"/>
+      <point x="308" y="-30"/>
+      <point x="281" y="-30" type="curve"/>
+      <point x="269" y="-30"/>
+      <point x="260" y="-31"/>
+    </contour>
+    <contour>
+      <point x="256" y="-131" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="255" y="453" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>C</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>cedillacomb</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-12-15 22:52:24 +0000</string>
+      <string>2018-12-17 11:57:14 +0000</string>
     </dict>
   </lib>
 </glyph>

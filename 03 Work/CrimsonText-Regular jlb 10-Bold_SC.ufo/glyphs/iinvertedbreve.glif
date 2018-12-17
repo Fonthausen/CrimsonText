@@ -2,7 +2,101 @@
 <glyph name="iinvertedbreve" format="1">
   <advance width="244"/>
   <outline>
-    <component base="idotless"/>
-    <component base="breveinvertedcomb" xOffset="11"/>
+    <contour>
+      <point x="8" y="-3" type="curve"/>
+      <point x="-3" y="-3"/>
+      <point x="91" y="4"/>
+      <point x="122" y="4" type="curve"/>
+      <point x="153" y="4"/>
+      <point x="246" y="-3"/>
+      <point x="238" y="-3" type="curve"/>
+      <point x="239" y="-2"/>
+      <point x="240" y="3"/>
+      <point x="240" y="8" type="curve"/>
+      <point x="240" y="16"/>
+      <point x="238" y="26"/>
+      <point x="237" y="26" type="curve"/>
+      <point x="229" y="26"/>
+      <point x="191" y="40"/>
+      <point x="190" y="45" type="curve"/>
+      <point x="186" y="53"/>
+      <point x="185" y="69"/>
+      <point x="185" y="109" type="curve"/>
+      <point x="185" y="178" type="line" smooth="yes"/>
+      <point x="185" y="223"/>
+      <point x="194" y="279"/>
+      <point x="194" y="298" type="curve"/>
+      <point x="194" y="303"/>
+      <point x="187" y="309"/>
+      <point x="181" y="309" type="curve"/>
+      <point x="175" y="309"/>
+      <point x="169" y="308"/>
+      <point x="164" y="307" type="curve"/>
+      <point x="135" y="299"/>
+      <point x="48" y="280"/>
+      <point x="16" y="278" type="curve"/>
+      <point x="13" y="280"/>
+      <point x="11" y="268"/>
+      <point x="11" y="249" type="curve"/>
+      <point x="24" y="246"/>
+      <point x="37" y="242"/>
+      <point x="47" y="232" type="curve"/>
+      <point x="57" y="222"/>
+      <point x="62" y="202"/>
+      <point x="62" y="171" type="curve"/>
+      <point x="62" y="100" type="line" smooth="yes"/>
+      <point x="62" y="74"/>
+      <point x="61" y="57"/>
+      <point x="57" y="45" type="curve"/>
+      <point x="54" y="40"/>
+      <point x="18" y="26"/>
+      <point x="7" y="26" type="curve"/>
+      <point x="5" y="26"/>
+      <point x="4" y="23"/>
+      <point x="4" y="13" type="curve"/>
+      <point x="4" y="2"/>
+      <point x="5" y="-3"/>
+    </contour>
+    <contour>
+      <point x="59" y="332" type="curve"/>
+      <point x="70" y="362"/>
+      <point x="91" y="373"/>
+      <point x="123" y="373" type="curve"/>
+      <point x="155" y="373"/>
+      <point x="175" y="362"/>
+      <point x="185" y="332" type="curve"/>
+      <point x="185" y="331"/>
+      <point x="186" y="330"/>
+      <point x="188" y="330" type="curve"/>
+      <point x="194" y="330"/>
+      <point x="216" y="336"/>
+      <point x="216" y="340" type="curve"/>
+      <point x="210" y="388"/>
+      <point x="172" y="422"/>
+      <point x="122" y="422" type="curve"/>
+      <point x="74" y="422"/>
+      <point x="39" y="392"/>
+      <point x="29" y="340" type="curve"/>
+      <point x="29" y="336"/>
+      <point x="51" y="330"/>
+      <point x="56" y="330" type="curve"/>
+      <point x="58" y="330"/>
+      <point x="59" y="331"/>
+    </contour>
+    <contour>
+      <point x="123" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="197" y="7" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="123" y="440" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,112 @@
 <glyph name="vtilde" format="1">
   <advance width="401"/>
   <outline>
-    <component base="tildecomb" xOffset="101"/>
-    <component base="v"/>
+    <contour>
+      <point x="95" y="348" type="curve"/>
+      <point x="98" y="348"/>
+      <point x="133" y="390"/>
+      <point x="142" y="390" type="curve"/>
+      <point x="186" y="390"/>
+      <point x="227" y="341"/>
+      <point x="269" y="341" type="curve"/>
+      <point x="308" y="341"/>
+      <point x="336" y="382"/>
+      <point x="336" y="411" type="curve"/>
+      <point x="336" y="421"/>
+      <point x="335" y="426"/>
+      <point x="333" y="426" type="curve"/>
+      <point x="327" y="426"/>
+      <point x="294" y="384"/>
+      <point x="287" y="384" type="curve"/>
+      <point x="244" y="384"/>
+      <point x="207" y="435"/>
+      <point x="156" y="435" type="curve"/>
+      <point x="123" y="435"/>
+      <point x="89" y="389"/>
+      <point x="89" y="364" type="curve"/>
+      <point x="89" y="354"/>
+      <point x="91" y="348"/>
+    </contour>
+    <contour>
+      <point x="190" y="-8" type="curve"/>
+      <point x="198" y="-8"/>
+      <point x="206" y="2"/>
+      <point x="215" y="15" type="curve"/>
+      <point x="354" y="250" type="line" smooth="yes"/>
+      <point x="362" y="262"/>
+      <point x="373" y="274"/>
+      <point x="418" y="280" type="curve"/>
+      <point x="419" y="280"/>
+      <point x="420" y="284"/>
+      <point x="420" y="296" type="curve"/>
+      <point x="420" y="304"/>
+      <point x="419" y="307"/>
+      <point x="416" y="309" type="curve"/>
+      <point x="386" y="306"/>
+      <point x="338" y="303"/>
+      <point x="321" y="303" type="curve"/>
+      <point x="304" y="303"/>
+      <point x="269" y="306"/>
+      <point x="234" y="309" type="curve"/>
+      <point x="233" y="306"/>
+      <point x="232" y="300"/>
+      <point x="232" y="292" type="curve"/>
+      <point x="232" y="285"/>
+      <point x="233" y="281"/>
+      <point x="234" y="280" type="curve"/>
+      <point x="277" y="273"/>
+      <point x="282" y="269"/>
+      <point x="282" y="259" type="curve"/>
+      <point x="282" y="250"/>
+      <point x="279" y="240"/>
+      <point x="276" y="235" type="curve"/>
+      <point x="229" y="150" type="line"/>
+      <point x="192" y="238" type="line" smooth="yes"/>
+      <point x="188" y="246"/>
+      <point x="187" y="252"/>
+      <point x="187" y="255" type="curve"/>
+      <point x="187" y="268"/>
+      <point x="199" y="274"/>
+      <point x="244" y="280" type="curve"/>
+      <point x="246" y="280"/>
+      <point x="246" y="281"/>
+      <point x="246" y="291" type="curve"/>
+      <point x="246" y="302"/>
+      <point x="245" y="306"/>
+      <point x="243" y="309" type="curve"/>
+      <point x="232" y="307"/>
+      <point x="145" y="302"/>
+      <point x="124" y="302" type="curve"/>
+      <point x="100" y="302"/>
+      <point x="19" y="307"/>
+      <point x="0" y="309" type="curve"/>
+      <point x="-2" y="307"/>
+      <point x="-3" y="302"/>
+      <point x="-3" y="297" type="curve"/>
+      <point x="-3" y="286"/>
+      <point x="-2" y="280"/>
+      <point x="0" y="280" type="curve"/>
+      <point x="21" y="280"/>
+      <point x="50" y="265"/>
+      <point x="54" y="257" type="curve"/>
+      <point x="175" y="5" type="line" smooth="yes"/>
+      <point x="179" y="-4"/>
+      <point x="181" y="-8"/>
+    </contour>
+    <contour>
+      <point x="213" y="306" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="213" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="213" y="306" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

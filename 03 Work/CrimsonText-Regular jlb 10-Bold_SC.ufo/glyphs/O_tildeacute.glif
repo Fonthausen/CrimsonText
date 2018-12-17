@@ -2,7 +2,103 @@
 <glyph name="Otildeacute" format="1">
   <advance width="541"/>
   <outline>
-    <component base="tildecomb_acutecomb.case" xOffset="161"/>
-    <component base="O"/>
+    <contour>
+      <point x="329" y="488" type="curve"/>
+      <point x="368" y="488"/>
+      <point x="396" y="529"/>
+      <point x="396" y="558" type="curve"/>
+      <point x="396" y="568"/>
+      <point x="395" y="574"/>
+      <point x="393" y="574" type="curve"/>
+      <point x="387" y="574"/>
+      <point x="354" y="531"/>
+      <point x="347" y="531" type="curve"/>
+      <point x="304" y="531"/>
+      <point x="267" y="582"/>
+      <point x="216" y="582" type="curve"/>
+      <point x="183" y="582"/>
+      <point x="149" y="536"/>
+      <point x="149" y="511" type="curve"/>
+      <point x="149" y="501"/>
+      <point x="151" y="495"/>
+      <point x="155" y="495" type="curve"/>
+      <point x="158" y="495"/>
+      <point x="193" y="537"/>
+      <point x="202" y="537" type="curve"/>
+      <point x="246" y="537"/>
+      <point x="287" y="488"/>
+    </contour>
+    <contour>
+      <point x="273" y="586" type="curve"/>
+      <point x="285" y="586"/>
+      <point x="389" y="657"/>
+      <point x="389" y="680" type="curve"/>
+      <point x="389" y="688"/>
+      <point x="378" y="702"/>
+      <point x="352" y="702" type="curve"/>
+      <point x="339" y="702"/>
+      <point x="331" y="700"/>
+      <point x="327" y="696" type="curve"/>
+      <point x="312" y="680"/>
+      <point x="258" y="609"/>
+      <point x="258" y="601" type="curve"/>
+      <point x="258" y="597"/>
+      <point x="268" y="586"/>
+    </contour>
+    <contour>
+      <point x="272" y="-7" type="curve"/>
+      <point x="402" y="-7"/>
+      <point x="511" y="94"/>
+      <point x="511" y="226" type="curve"/>
+      <point x="511" y="355"/>
+      <point x="404" y="460"/>
+      <point x="273" y="460" type="curve"/>
+      <point x="138" y="460"/>
+      <point x="31" y="355"/>
+      <point x="31" y="227" type="curve"/>
+      <point x="31" y="95"/>
+      <point x="137" y="-7"/>
+    </contour>
+    <contour>
+      <point x="280" y="38" type="curve"/>
+      <point x="216" y="38"/>
+      <point x="174" y="131"/>
+      <point x="174" y="240" type="curve"/>
+      <point x="174" y="343"/>
+      <point x="208" y="414"/>
+      <point x="260" y="414" type="curve"/>
+      <point x="325" y="414"/>
+      <point x="367" y="321"/>
+      <point x="367" y="214" type="curve"/>
+      <point x="367" y="111"/>
+      <point x="334" y="38"/>
+    </contour>
+    <contour>
+      <point x="273" y="453" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="272" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="272" y="226" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="473" y="7" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="272" y="453" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="36" y="453" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="507" y="453" type="move" name="topright"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

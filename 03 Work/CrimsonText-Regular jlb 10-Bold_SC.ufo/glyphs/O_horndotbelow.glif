@@ -2,7 +2,84 @@
 <glyph name="Ohorndotbelow" format="1">
   <advance width="541"/>
   <outline>
-    <component base="Ohorn"/>
-    <component base="dotbelowcomb" xOffset="159"/>
+    <contour>
+      <point x="565" y="448" type="curve"/>
+      <point x="565" y="469"/>
+      <point x="552" y="501"/>
+      <point x="516" y="501" type="curve"/>
+      <point x="491" y="501"/>
+      <point x="469" y="489"/>
+      <point x="469" y="464" type="curve"/>
+      <point x="469" y="452"/>
+      <point x="484" y="430"/>
+      <point x="484" y="427" type="curve"/>
+      <point x="484" y="419"/>
+      <point x="475" y="417"/>
+      <point x="458" y="417" type="curve"/>
+      <point x="436" y="417"/>
+      <point x="394" y="427"/>
+      <point x="379" y="436" type="curve"/>
+      <point x="348" y="451"/>
+      <point x="311" y="460"/>
+      <point x="273" y="460" type="curve"/>
+      <point x="138" y="460"/>
+      <point x="31" y="355"/>
+      <point x="31" y="227" type="curve"/>
+      <point x="31" y="95"/>
+      <point x="137" y="-7"/>
+      <point x="272" y="-7" type="curve"/>
+      <point x="402" y="-7"/>
+      <point x="511" y="94"/>
+      <point x="511" y="226" type="curve"/>
+      <point x="511" y="295"/>
+      <point x="481" y="356"/>
+      <point x="433" y="399" type="curve"/>
+      <point x="444" y="388" type="line"/>
+      <point x="450" y="384"/>
+      <point x="462" y="379"/>
+      <point x="485" y="379" type="curve"/>
+      <point x="528" y="379"/>
+      <point x="565" y="412"/>
+    </contour>
+    <contour>
+      <point x="280" y="38" type="curve"/>
+      <point x="216" y="38"/>
+      <point x="174" y="131"/>
+      <point x="174" y="240" type="curve"/>
+      <point x="174" y="343"/>
+      <point x="208" y="414"/>
+      <point x="260" y="414" type="curve"/>
+      <point x="325" y="414"/>
+      <point x="367" y="321"/>
+      <point x="367" y="214" type="curve"/>
+      <point x="367" y="111"/>
+      <point x="334" y="38"/>
+    </contour>
+    <contour>
+      <point x="271" y="-138" type="curve"/>
+      <point x="303" y="-138"/>
+      <point x="328" y="-112"/>
+      <point x="328" y="-85" type="curve"/>
+      <point x="328" y="-58"/>
+      <point x="303" y="-32"/>
+      <point x="271" y="-32" type="curve"/>
+      <point x="238" y="-32"/>
+      <point x="213" y="-58"/>
+      <point x="213" y="-85" type="curve"/>
+      <point x="213" y="-112"/>
+      <point x="238" y="-138"/>
+    </contour>
+    <contour>
+      <point x="271" y="-131" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="271" y="453" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,11 @@
 <glyph name="germandbls.sc" format="1">
   <advance width="587"/>
   <outline>
-    <component base="s.sc" xOffset="291"/>
-    <component base="s.sc"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

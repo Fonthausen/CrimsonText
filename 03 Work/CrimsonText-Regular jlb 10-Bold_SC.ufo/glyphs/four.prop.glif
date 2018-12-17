@@ -2,6 +2,48 @@
 <glyph name="four.prop" format="1">
   <advance width="371"/>
   <outline>
-    <component base="four" xOffset="-5"/>
+    <contour>
+      <point x="305" y="443" type="curve"/>
+      <point x="297" y="443"/>
+      <point x="290" y="439"/>
+      <point x="283" y="432" type="curve"/>
+      <point x="8" y="160" type="line"/>
+      <point x="8" y="142"/>
+      <point x="14" y="128"/>
+      <point x="24" y="120" type="curve"/>
+      <point x="207" y="120" type="line"/>
+      <point x="207" y="8" type="line" smooth="yes"/>
+      <point x="207" y="0"/>
+      <point x="224" y="-3"/>
+      <point x="260" y="-3" type="curve"/>
+      <point x="282" y="-3"/>
+      <point x="302" y="0"/>
+      <point x="321" y="5" type="curve"/>
+      <point x="321" y="120" type="line"/>
+      <point x="347" y="120" type="line"/>
+      <point x="349" y="121"/>
+      <point x="352" y="133"/>
+      <point x="352" y="138" type="curve"/>
+      <point x="352" y="162"/>
+      <point x="348" y="173"/>
+      <point x="341" y="173" type="curve"/>
+      <point x="321" y="173" type="line"/>
+      <point x="321" y="436" type="line" smooth="yes"/>
+      <point x="321" y="441"/>
+      <point x="316" y="443"/>
+    </contour>
+    <contour>
+      <point x="207" y="298" type="line"/>
+      <point x="207" y="173" type="line"/>
+      <point x="71" y="173" type="line"/>
+      <point x="59" y="151" type="line"/>
+      <point x="215" y="298" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

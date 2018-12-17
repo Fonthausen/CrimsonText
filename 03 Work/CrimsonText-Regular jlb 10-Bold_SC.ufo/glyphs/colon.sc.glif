@@ -2,6 +2,39 @@
 <glyph name="colon.sc" format="1">
   <advance width="0"/>
   <outline>
-    <component base="colon"/>
+    <contour>
+      <point x="160" y="81" type="curve"/>
+      <point x="145" y="127"/>
+      <point x="91" y="152"/>
+      <point x="42" y="138" type="curve"/>
+      <point x="-18" y="124"/>
+      <point x="-35" y="70"/>
+      <point x="-20" y="28" type="curve"/>
+      <point x="-4" y="-15"/>
+      <point x="39" y="-46"/>
+      <point x="101" y="-32" type="curve"/>
+      <point x="150" y="-18"/>
+      <point x="176" y="35"/>
+    </contour>
+    <contour>
+      <point x="160" y="278" type="curve"/>
+      <point x="145" y="324"/>
+      <point x="91" y="349"/>
+      <point x="42" y="335" type="curve"/>
+      <point x="-18" y="321"/>
+      <point x="-35" y="267"/>
+      <point x="-20" y="225" type="curve"/>
+      <point x="-4" y="182"/>
+      <point x="39" y="150"/>
+      <point x="101" y="164" type="curve"/>
+      <point x="150" y="178"/>
+      <point x="176" y="232"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

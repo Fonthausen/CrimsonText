@@ -15,7 +15,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>CrimsonText-Regular jlb 10-Bold_Sup_LCUP</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string></string>
+	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -24,16 +24,14 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>CrimsonText-Regularjlb10-Bold_Sup_LCUP-</string>
+	<string>CrimsonText-Regularjlb10-Bold_Sup_LCUP-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>styleMapFamilyName</key>
-	<string>CrimsonText-Regular jlb 10-Bold_Sup_LCUP</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string></string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1024</integer>
 	<key>versionMajor</key>

@@ -2,7 +2,101 @@
 <glyph name="fdotaccent" format="1">
   <advance width="259"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="18" yOffset="147"/>
-    <component base="f"/>
+    <contour>
+      <point x="130" y="477" type="curve"/>
+      <point x="162" y="477"/>
+      <point x="187" y="503"/>
+      <point x="187" y="530" type="curve"/>
+      <point x="187" y="557"/>
+      <point x="162" y="583"/>
+      <point x="130" y="583" type="curve"/>
+      <point x="97" y="583"/>
+      <point x="72" y="557"/>
+      <point x="72" y="530" type="curve"/>
+      <point x="72" y="503"/>
+      <point x="97" y="477"/>
+    </contour>
+    <contour>
+      <point x="5" y="-3" type="curve"/>
+      <point x="29" y="-1"/>
+      <point x="108" y="4"/>
+      <point x="122" y="4" type="curve"/>
+      <point x="153" y="4"/>
+      <point x="252" y="-3"/>
+      <point x="243" y="-3" type="curve"/>
+      <point x="243" y="-1"/>
+      <point x="245" y="6"/>
+      <point x="245" y="9" type="curve"/>
+      <point x="245" y="17"/>
+      <point x="243" y="26"/>
+      <point x="242" y="26" type="curve"/>
+      <point x="230" y="26"/>
+      <point x="189" y="40"/>
+      <point x="188" y="45" type="curve"/>
+      <point x="185" y="55"/>
+      <point x="183" y="76"/>
+      <point x="183" y="109" type="curve"/>
+      <point x="183" y="259" type="line"/>
+      <point x="181" y="280" type="line"/>
+      <point x="181" y="327" type="line" smooth="yes"/>
+      <point x="181" y="401"/>
+      <point x="196" y="444"/>
+      <point x="221" y="444" type="curve"/>
+      <point x="250" y="444"/>
+      <point x="245" y="376"/>
+      <point x="289" y="376" type="curve"/>
+      <point x="315" y="376"/>
+      <point x="335" y="393"/>
+      <point x="335" y="415" type="curve"/>
+      <point x="335" y="452"/>
+      <point x="292" y="479"/>
+      <point x="234" y="479" type="curve"/>
+      <point x="150" y="479"/>
+      <point x="60" y="395"/>
+      <point x="60" y="318" type="curve"/>
+      <point x="60" y="92" type="line" smooth="yes"/>
+      <point x="60" y="71"/>
+      <point x="59" y="56"/>
+      <point x="57" y="45" type="curve"/>
+      <point x="55" y="40"/>
+      <point x="17" y="26"/>
+      <point x="5" y="26" type="curve"/>
+      <point x="2" y="26"/>
+      <point x="1" y="22"/>
+      <point x="1" y="13" type="curve"/>
+      <point x="1" y="5"/>
+      <point x="2" y="-1"/>
+    </contour>
+    <contour>
+      <point x="0" y="254" type="curve"/>
+      <point x="264" y="254" type="line"/>
+      <point x="270" y="265"/>
+      <point x="273" y="279"/>
+      <point x="273" y="296" type="curve"/>
+      <point x="273" y="299"/>
+      <point x="272" y="301"/>
+      <point x="270" y="301" type="curve"/>
+      <point x="29" y="301" type="line" smooth="yes"/>
+      <point x="16" y="301"/>
+      <point x="-2" y="276"/>
+      <point x="-2" y="258" type="curve"/>
+      <point x="-2" y="255"/>
+      <point x="-2" y="254"/>
+    </contour>
+    <contour>
+      <point x="130" y="453" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="122" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="130" y="453" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

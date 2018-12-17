@@ -3,6 +3,11 @@
   <advance width="280"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a.ordn"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>

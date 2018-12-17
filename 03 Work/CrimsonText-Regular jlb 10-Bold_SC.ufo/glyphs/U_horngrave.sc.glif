@@ -2,7 +2,121 @@
 <glyph name="Uhorngrave.sc" format="1">
   <advance width="553"/>
   <outline>
-    <component base="gravecomb.case" xOffset="184"/>
-    <component base="Uhorn"/>
+    <contour>
+      <point x="180" y="550" type="curve"/>
+      <point x="180" y="534"/>
+      <point x="282" y="477"/>
+      <point x="296" y="477" type="curve"/>
+      <point x="299" y="477"/>
+      <point x="311" y="488"/>
+      <point x="311" y="492" type="curve"/>
+      <point x="311" y="500"/>
+      <point x="255" y="552"/>
+      <point x="241" y="566" type="curve"/>
+      <point x="237" y="570"/>
+      <point x="228" y="572"/>
+      <point x="216" y="572" type="curve"/>
+      <point x="190" y="572"/>
+      <point x="180" y="558"/>
+    </contour>
+    <contour>
+      <point x="291" y="-6" type="curve"/>
+      <point x="406" y="-6"/>
+      <point x="480" y="67"/>
+      <point x="480" y="191" type="curve"/>
+      <point x="480" y="357" type="line" smooth="yes"/>
+      <point x="480" y="383"/>
+      <point x="484" y="402"/>
+      <point x="491" y="406" type="curve"/>
+      <point x="496" y="409"/>
+      <point x="503" y="409"/>
+      <point x="510" y="411" type="curve"/>
+      <point x="552" y="419"/>
+      <point x="579" y="440"/>
+      <point x="579" y="477" type="curve"/>
+      <point x="579" y="497"/>
+      <point x="565" y="530"/>
+      <point x="529" y="530" type="curve"/>
+      <point x="505" y="530"/>
+      <point x="482" y="518"/>
+      <point x="482" y="498" type="curve"/>
+      <point x="482" y="475"/>
+      <point x="498" y="476"/>
+      <point x="498" y="461" type="curve"/>
+      <point x="498" y="453"/>
+      <point x="491" y="449"/>
+      <point x="464" y="449" type="curve"/>
+      <point x="429" y="449"/>
+      <point x="403" y="452"/>
+      <point x="354" y="455" type="curve"/>
+      <point x="354" y="456"/>
+      <point x="353" y="452"/>
+      <point x="353" y="446" type="curve"/>
+      <point x="353" y="435"/>
+      <point x="355" y="425"/>
+      <point x="358" y="425" type="curve"/>
+      <point x="374" y="425"/>
+      <point x="405" y="413"/>
+      <point x="415" y="403" type="curve"/>
+      <point x="424" y="400"/>
+      <point x="428" y="385"/>
+      <point x="428" y="361" type="curve"/>
+      <point x="428" y="193" type="line" smooth="yes"/>
+      <point x="428" y="101"/>
+      <point x="382" y="62"/>
+      <point x="320" y="62" type="curve"/>
+      <point x="242" y="62"/>
+      <point x="203" y="99"/>
+      <point x="203" y="166" type="curve"/>
+      <point x="203" y="354" type="line" smooth="yes"/>
+      <point x="203" y="380"/>
+      <point x="204" y="398"/>
+      <point x="207" y="409" type="curve"/>
+      <point x="209" y="413"/>
+      <point x="245" y="426"/>
+      <point x="256" y="426" type="curve"/>
+      <point x="258" y="426"/>
+      <point x="259" y="431"/>
+      <point x="259" y="441" type="curve"/>
+      <point x="259" y="446"/>
+      <point x="258" y="450"/>
+      <point x="256" y="455" type="curve"/>
+      <point x="190" y="452"/>
+      <point x="151" y="451"/>
+      <point x="140" y="451" type="curve"/>
+      <point x="122" y="451"/>
+      <point x="94" y="453"/>
+      <point x="20" y="455" type="curve"/>
+      <point x="21" y="456"/>
+      <point x="20" y="450"/>
+      <point x="20" y="440" type="curve"/>
+      <point x="20" y="431"/>
+      <point x="21" y="426"/>
+      <point x="23" y="426" type="curve"/>
+      <point x="33" y="426"/>
+      <point x="61" y="414"/>
+      <point x="67" y="407" type="curve"/>
+      <point x="70" y="405"/>
+      <point x="73" y="389"/>
+      <point x="73" y="359" type="curve"/>
+      <point x="73" y="198" type="line" smooth="yes"/>
+      <point x="73" y="54"/>
+      <point x="151" y="-6"/>
+    </contour>
+    <contour>
+      <point x="296" y="453" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="295" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="295" y="453" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-17 11:57:14 +0000</string>
+    </dict>
+  </lib>
 </glyph>
