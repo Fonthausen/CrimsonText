@@ -1,5 +1,5 @@
 {
-.appVersion = "1184";
+.appVersion = "1189";
 DisplayStrings = (
 "N/CdoubleStruck/Placeholder"
 );
@@ -264,42 +264,6 @@ ascender = 658;
 capHeight = 658;
 customParameters = (
 {
-name = typoAscender;
-value = 717;
-},
-{
-name = typoDescender;
-value = -307;
-},
-{
-name = typoLineGap;
-value = 307;
-},
-{
-name = winAscent;
-value = 1026;
-},
-{
-name = winDescent;
-value = 297;
-},
-{
-name = hheaAscender;
-value = 1026;
-},
-{
-name = hheaDescender;
-value = -297;
-},
-{
-name = strikeoutPosition;
-value = 264;
-},
-{
-name = strikeoutSize;
-value = 50;
-},
-{
 name = smallCapHeight;
 value = 455;
 }
@@ -336,42 +300,6 @@ alignmentZones = (
 ascender = 658;
 capHeight = 658;
 customParameters = (
-{
-name = typoAscender;
-value = 717;
-},
-{
-name = typoDescender;
-value = -307;
-},
-{
-name = typoLineGap;
-value = 92;
-},
-{
-name = winAscent;
-value = 1106;
-},
-{
-name = winDescent;
-value = 739;
-},
-{
-name = hheaAscender;
-value = 1106;
-},
-{
-name = hheaDescender;
-value = -739;
-},
-{
-name = strikeoutPosition;
-value = 265;
-},
-{
-name = strikeoutSize;
-value = 51;
-},
 {
 name = smallCapHeight;
 value = 458;
