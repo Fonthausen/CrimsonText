@@ -1,7 +1,7 @@
 {
-.appVersion = "1191";
+.appVersion = "1192";
 DisplayStrings = (
-"/lcaron/lcaron"
+"/ringcomb"
 );
 classes = (
 {
