@@ -1,5 +1,8 @@
 {
-.appVersion = "1192";
+.appVersion = "1193";
+DisplayStrings = (
+"/f_b fb"
+);
 classes = (
 {
 automatic = 1;
