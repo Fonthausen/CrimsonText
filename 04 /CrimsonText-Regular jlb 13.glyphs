@@ -1,5 +1,8 @@
 {
 .appVersion = "1193";
+DisplayStrings = (
+"O8/nine.onum/Placeholder"
+);
 classes = (
 {
 automatic = 1;
@@ -121943,7 +121946,7 @@ unicode = 0038;
 {
 color = 3;
 glyphname = nine;
-lastChange = "2018-11-30 13:53:58 +0000";
+lastChange = "2018-12-30 20:48:17 +0000";
 layers = (
 {
 background = {
@@ -122042,7 +122045,7 @@ nodes = (
 "355 431 CURVE SMOOTH",
 "355 401 OFFCURVE",
 "349 373 OFFCURVE",
-"340 353 CURVE SMOOTH",
+"344 353 CURVE",
 "330 331 OFFCURVE",
 "290 311 OFFCURVE",
 "256 311 CURVE SMOOTH",
