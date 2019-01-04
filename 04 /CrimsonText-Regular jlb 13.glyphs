@@ -1,5 +1,8 @@
 {
 .appVersion = "1195";
+DisplayStrings = (
+"/ogonekcomb/oogonek"
+);
 classes = (
 {
 automatic = 1;
