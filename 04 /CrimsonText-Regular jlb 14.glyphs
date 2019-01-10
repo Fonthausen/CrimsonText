@@ -1,9 +1,5 @@
 {
-.appVersion = "1199";
-DisplayStrings = (
-"/apostrophemod",
-"/verticallinemod"
-);
+.appVersion = "1200";
 classes = (
 {
 automatic = 1;
