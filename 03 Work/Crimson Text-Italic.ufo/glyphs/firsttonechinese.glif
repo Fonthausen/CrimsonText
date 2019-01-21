@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="1">
+  <advance width="300"/>
+  <unicode hex="02C9"/>
+  <note>
+    uni0304
+  </note>
+  <outline>
+    <contour>
+      <point x="107" y="558" type="line"/>
+      <point x="100" y="522" type="line"/>
+      <point x="320" y="522" type="line"/>
+      <point x="327" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="431" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="232" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 09:30:48 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

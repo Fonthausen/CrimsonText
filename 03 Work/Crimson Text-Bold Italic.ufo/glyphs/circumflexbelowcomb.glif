@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexbelowcomb" format="1">
+  <advance width="300"/>
+  <unicode hex="032D"/>
+  <outline>
+    <contour>
+      <point x="-49" y="-206" type="curve" smooth="yes"/>
+      <point x="-36" y="-206"/>
+      <point x="37" y="-164"/>
+      <point x="79" y="-142" type="curve"/>
+      <point x="114" y="-164"/>
+      <point x="173" y="-206"/>
+      <point x="186" y="-206" type="curve" smooth="yes"/>
+      <point x="193" y="-206"/>
+      <point x="208" y="-197"/>
+      <point x="203" y="-170" type="curve"/>
+      <point x="203" y="-170"/>
+      <point x="155" y="-120"/>
+      <point x="145" y="-107" type="curve" smooth="yes"/>
+      <point x="137" y="-96"/>
+      <point x="125" y="-77"/>
+      <point x="109" y="-50" type="curve"/>
+      <point x="108" y="-43"/>
+      <point x="103" y="-40"/>
+      <point x="99" y="-40" type="curve" smooth="yes"/>
+      <point x="97" y="-40"/>
+      <point x="93" y="-43"/>
+      <point x="87" y="-50" type="curve" smooth="yes"/>
+      <point x="71" y="-69"/>
+      <point x="50" y="-85"/>
+      <point x="29" y="-105" type="curve" smooth="yes"/>
+      <point x="16" y="-117"/>
+      <point x="-1" y="-129"/>
+      <point x="-20" y="-143" type="curve" smooth="yes"/>
+      <point x="-40" y="-158"/>
+      <point x="-50" y="-167"/>
+      <point x="-53" y="-169" type="curve"/>
+      <point x="-68" y="-197"/>
+      <point x="-57" y="-206"/>
+    </contour>
+    <contour>
+      <point x="108" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="71" y="-190" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 20:50:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

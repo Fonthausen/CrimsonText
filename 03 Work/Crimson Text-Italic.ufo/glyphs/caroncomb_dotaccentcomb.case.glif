@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb_dotaccentcomb.case" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="237" y="707" type="curve" smooth="yes"/>
+      <point x="239" y="707"/>
+      <point x="241" y="710"/>
+      <point x="247" y="717" type="curve" smooth="yes"/>
+      <point x="264" y="736"/>
+      <point x="281" y="751"/>
+      <point x="301" y="770" type="curve" smooth="yes"/>
+      <point x="313" y="781"/>
+      <point x="327" y="793"/>
+      <point x="345" y="807" type="curve" smooth="yes"/>
+      <point x="364" y="822"/>
+      <point x="372" y="830"/>
+      <point x="375" y="833" type="curve"/>
+      <point x="376" y="839"/>
+      <point x="378" y="856"/>
+      <point x="369" y="856" type="curve" smooth="yes"/>
+      <point x="357" y="856"/>
+      <point x="290" y="812"/>
+      <point x="251" y="784" type="curve"/>
+      <point x="221" y="812"/>
+      <point x="170" y="856"/>
+      <point x="158" y="856" type="curve" smooth="yes"/>
+      <point x="152" y="856"/>
+      <point x="148" y="848"/>
+      <point x="145" y="833" type="curve"/>
+      <point x="145" y="833"/>
+      <point x="188" y="785"/>
+      <point x="196" y="772" type="curve" smooth="yes"/>
+      <point x="204" y="759"/>
+      <point x="214" y="743"/>
+      <point x="227" y="717" type="curve"/>
+      <point x="229" y="710"/>
+      <point x="233" y="707"/>
+    </contour>
+    <contour>
+      <point x="263" y="845" type="curve" smooth="yes"/>
+      <point x="293" y="845"/>
+      <point x="320" y="876"/>
+      <point x="320" y="908" type="curve" smooth="yes"/>
+      <point x="320" y="931"/>
+      <point x="305" y="949"/>
+      <point x="282" y="949" type="curve" smooth="yes"/>
+      <point x="253" y="949"/>
+      <point x="224" y="920"/>
+      <point x="224" y="888" type="curve" smooth="yes"/>
+      <point x="224" y="864"/>
+      <point x="239" y="845"/>
+    </contour>
+    <contour>
+      <point x="226" y="658" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="267" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 22:06:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

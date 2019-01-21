@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="1">
+  <advance width="300"/>
+  <unicode hex="0328"/>
+  <note>
+    uni0328
+  </note>
+  <outline>
+    <contour>
+      <point x="68" y="-223" type="curve" smooth="yes"/>
+      <point x="103" y="-223"/>
+      <point x="146" y="-204"/>
+      <point x="193" y="-157" type="curve" smooth="yes"/>
+      <point x="198" y="-152"/>
+      <point x="205" y="-144"/>
+      <point x="206" y="-137" type="curve" smooth="yes"/>
+      <point x="207" y="-131"/>
+      <point x="207" y="-127"/>
+      <point x="205" y="-126" type="curve"/>
+      <point x="183" y="-143"/>
+      <point x="144" y="-164"/>
+      <point x="112" y="-164" type="curve" smooth="yes"/>
+      <point x="89" y="-164"/>
+      <point x="80" y="-154"/>
+      <point x="80" y="-140" type="curve" smooth="yes"/>
+      <point x="80" y="-88"/>
+      <point x="174" y="-28"/>
+      <point x="237" y="2" type="curve"/>
+      <point x="253" y="10" type="line"/>
+      <point x="209" y="14" type="line"/>
+      <point x="187" y="2" type="line"/>
+      <point x="111" y="-37"/>
+      <point x="15" y="-110"/>
+      <point x="15" y="-176" type="curve" smooth="yes"/>
+      <point x="15" y="-202"/>
+      <point x="31" y="-223"/>
+    </contour>
+    <contour>
+      <point x="253" y="10" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-09 16:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

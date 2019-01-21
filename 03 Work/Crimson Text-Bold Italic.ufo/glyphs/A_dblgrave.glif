@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adblgrave" format="1">
+  <advance width="667"/>
+  <unicode hex="0200"/>
+  <outline>
+    <component base="A"/>
+    <component base="dblgravecomb" xOffset="222" yOffset="219"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 22:12:41 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

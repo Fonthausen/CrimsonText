@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine.sc" format="1">
+  <advance width="411"/>
+  <note>
+    ordmasculine.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="186" y="415" type="curve" smooth="yes"/>
+      <point x="227" y="415"/>
+      <point x="246" y="366"/>
+      <point x="235" y="311" type="curve" smooth="yes"/>
+      <point x="226" y="264"/>
+      <point x="190" y="220"/>
+      <point x="157" y="220" type="curve" smooth="yes"/>
+      <point x="117" y="220"/>
+      <point x="98" y="270"/>
+      <point x="109" y="325" type="curve" smooth="yes"/>
+      <point x="118" y="370"/>
+      <point x="153" y="415"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 21:33:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less.sc" format="1">
+  <advance width="376"/>
+  <note>
+    less.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="324" y="76" type="curve"/>
+      <point x="322" y="82" type="line"/>
+      <point x="114" y="209" type="line"/>
+      <point x="371" y="335" type="line"/>
+      <point x="376" y="344" type="line"/>
+      <point x="377" y="372"/>
+      <point x="374" y="386"/>
+      <point x="368" y="386" type="curve" smooth="yes"/>
+      <point x="367" y="386"/>
+      <point x="366" y="385"/>
+      <point x="363" y="384" type="curve" smooth="yes"/>
+      <point x="81" y="245" type="line" smooth="yes"/>
+      <point x="41" y="226"/>
+      <point x="36" y="191"/>
+      <point x="65" y="174" type="curve" smooth="yes"/>
+      <point x="296" y="33" type="line"/>
+      <point x="300" y="31" type="line"/>
+      <point x="305" y="31"/>
+      <point x="323" y="67"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 22:23:04 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

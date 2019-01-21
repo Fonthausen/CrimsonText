@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less.sc" format="1">
+  <advance width="386"/>
+  <note>
+    less.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="285" y="9" type="line"/>
+      <point x="328" y="65" type="line"/>
+      <point x="106" y="180" type="line"/>
+      <point x="101" y="152" type="line"/>
+      <point x="371" y="267" type="line"/>
+      <point x="353" y="330" type="line"/>
+      <point x="45" y="199" type="line"/>
+      <point x="33" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 22:23:04 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.i" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="181" y="543" type="curve" smooth="yes"/>
+      <point x="209" y="543"/>
+      <point x="231" y="564"/>
+      <point x="231" y="593" type="curve" smooth="yes"/>
+      <point x="231" y="622"/>
+      <point x="209" y="643"/>
+      <point x="181" y="643" type="curve" smooth="yes"/>
+      <point x="152" y="643"/>
+      <point x="130" y="622"/>
+      <point x="130" y="593" type="curve" smooth="yes"/>
+      <point x="130" y="564"/>
+      <point x="152" y="543"/>
+    </contour>
+    <contour>
+      <point x="151" y="431" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="191" y="640" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-09 16:25:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

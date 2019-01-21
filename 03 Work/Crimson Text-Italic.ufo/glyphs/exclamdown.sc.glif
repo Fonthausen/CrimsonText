@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.sc" format="1">
+  <advance width="109"/>
+  <note>
+    exclamdown.sc
+  </note>
+  <outline>
+    <contour>
+      <point x="-12" y="-175" type="curve" smooth="yes"/>
+      <point x="13" y="-175"/>
+      <point x="34" y="-155"/>
+      <point x="38" y="-132" type="curve" smooth="yes"/>
+      <point x="41" y="-116"/>
+      <point x="43" y="-92"/>
+      <point x="47" y="-60" type="curve" smooth="yes"/>
+      <point x="50" y="-28"/>
+      <point x="58" y="54"/>
+      <point x="69" y="146" type="curve" smooth="yes"/>
+      <point x="70" y="155"/>
+      <point x="66" y="164"/>
+      <point x="61" y="161" type="curve"/>
+      <point x="44" y="156"/>
+      <point x="40" y="153"/>
+      <point x="36" y="138" type="curve" smooth="yes"/>
+      <point x="17" y="64"/>
+      <point x="-36" y="-100"/>
+      <point x="-41" y="-132" type="curve" smooth="yes"/>
+      <point x="-45" y="-155"/>
+      <point x="-36" y="-175"/>
+    </contour>
+    <contour>
+      <point x="61" y="192" type="curve" smooth="yes"/>
+      <point x="125" y="192"/>
+      <point x="139" y="293"/>
+      <point x="80" y="293" type="curve" smooth="yes"/>
+      <point x="17" y="293"/>
+      <point x="2" y="192"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 21:34:56 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

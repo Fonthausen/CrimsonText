@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar.sups" format="1">
+  <advance width="386"/>
+  <note>
+    bar.subs
+  </note>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="329" y="60" type="line"/>
+      <point x="18" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="386" type="line"/>
+      <point x="74" y="329" type="line"/>
+      <point x="297" y="215" type="line"/>
+      <point x="301" y="242" type="line"/>
+      <point x="31" y="128" type="line"/>
+      <point x="50" y="65" type="line"/>
+      <point x="357" y="196" type="line"/>
+      <point x="370" y="255" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 22:08:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

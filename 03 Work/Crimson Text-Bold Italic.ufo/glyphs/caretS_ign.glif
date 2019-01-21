@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caretSign" format="1">
+  <advance width="324"/>
+  <unicode hex="2038"/>
+  <note>
+    uni2038
+  </note>
+  <outline>
+    <contour>
+      <point x="234" y="-20" type="curve" smooth="yes"/>
+      <point x="241" y="-20"/>
+      <point x="256" y="-11"/>
+      <point x="251" y="16" type="curve"/>
+      <point x="251" y="16"/>
+      <point x="203" y="66"/>
+      <point x="193" y="79" type="curve" smooth="yes"/>
+      <point x="185" y="90"/>
+      <point x="173" y="109"/>
+      <point x="157" y="136" type="curve"/>
+      <point x="156" y="143"/>
+      <point x="151" y="146"/>
+      <point x="147" y="146" type="curve" smooth="yes"/>
+      <point x="145" y="146"/>
+      <point x="141" y="143"/>
+      <point x="135" y="136" type="curve" smooth="yes"/>
+      <point x="119" y="117"/>
+      <point x="99" y="100"/>
+      <point x="76" y="81" type="curve" smooth="yes"/>
+      <point x="63" y="70"/>
+      <point x="47" y="57"/>
+      <point x="28" y="43" type="curve" smooth="yes"/>
+      <point x="8" y="28"/>
+      <point x="-3" y="19"/>
+      <point x="-5" y="17" type="curve"/>
+      <point x="-20" y="-11"/>
+      <point x="-9" y="-20"/>
+      <point x="-1" y="-20" type="curve" smooth="yes"/>
+      <point x="12" y="-20"/>
+      <point x="85" y="22"/>
+      <point x="127" y="44" type="curve"/>
+      <point x="162" y="22"/>
+      <point x="221" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-14 12:36:15 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="1000"/>
+  <unicode hex="2014"/>
+  <note>
+    emdash
+  </note>
+  <outline>
+    <contour>
+      <point x="979" y="262" type="curve"/>
+      <point x="50" y="262" type="line" smooth="yes"/>
+      <point x="41" y="262"/>
+      <point x="30" y="230"/>
+      <point x="27" y="217" type="curve" smooth="yes"/>
+      <point x="26" y="209"/>
+      <point x="26" y="203"/>
+      <point x="27" y="200" type="curve"/>
+      <point x="956" y="200" type="line" smooth="yes"/>
+      <point x="965" y="200"/>
+      <point x="976" y="232"/>
+      <point x="979" y="244" type="curve" smooth="yes"/>
+      <point x="980" y="253"/>
+      <point x="981" y="259"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-14 21:40:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

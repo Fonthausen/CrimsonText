@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="389"/>
+  <unicode hex="005D"/>
+  <note>
+    bracketright
+  </note>
+  <outline>
+    <contour>
+      <point x="107" y="-60" type="line"/>
+      <point x="77" y="-62"/>
+      <point x="19" y="-72"/>
+      <point x="-23" y="-87" type="curve"/>
+      <point x="-30" y="-94"/>
+      <point x="-32" y="-102"/>
+      <point x="-35" y="-115" type="curve" smooth="yes"/>
+      <point x="-36" y="-123"/>
+      <point x="-36" y="-130"/>
+      <point x="-32" y="-133" type="curve"/>
+      <point x="50" y="-118"/>
+      <point x="127" y="-110"/>
+      <point x="201" y="-110" type="curve" smooth="yes"/>
+      <point x="214" y="-110"/>
+      <point x="222" y="-103"/>
+      <point x="224" y="-91" type="curve" smooth="yes"/>
+      <point x="388" y="751" type="line" smooth="yes"/>
+      <point x="390" y="763"/>
+      <point x="385" y="770"/>
+      <point x="372" y="770" type="curve" smooth="yes"/>
+      <point x="298" y="770"/>
+      <point x="224" y="778"/>
+      <point x="148" y="793" type="curve"/>
+      <point x="143" y="790"/>
+      <point x="140" y="783"/>
+      <point x="138" y="775" type="curve" smooth="yes"/>
+      <point x="136" y="762"/>
+      <point x="135" y="754"/>
+      <point x="139" y="747" type="curve"/>
+      <point x="175" y="732"/>
+      <point x="229" y="722"/>
+      <point x="259" y="720" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-14 13:32:54 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|bracketleft</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

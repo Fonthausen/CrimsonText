@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="510"/>
+  <unicode hex="2264"/>
+  <note>
+    lessequal
+  </note>
+  <outline>
+    <contour>
+      <point x="417" y="0" type="line"/>
+      <point x="428" y="54" type="line"/>
+      <point x="18" y="54" type="line"/>
+      <point x="7" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="104" type="line"/>
+      <point x="448" y="152" type="line"/>
+      <point x="108" y="343" type="line"/>
+      <point x="100" y="303" type="line"/>
+      <point x="514" y="494" type="line"/>
+      <point x="499" y="548" type="line"/>
+      <point x="76" y="352" type="line"/>
+      <point x="66" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 14:15:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|greaterequal</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

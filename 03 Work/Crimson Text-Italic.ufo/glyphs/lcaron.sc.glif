@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.sc" format="1">
+  <advance width="649"/>
+  <note>
+    lcaron.sc
+  </note>
+  <outline>
+    <component base="apostrophemod" xOffset="-66" yOffset="54"/>
+    <component base="l.sc" xOffset="302"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 21:35:18 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashedzero" format="1">
+  <advance width="533"/>
+  <note>
+    slashedzero
+  </note>
+  <outline>
+    <contour>
+      <point x="103" y="93" type="line"/>
+      <point x="157" y="73" type="line"/>
+      <point x="463" y="545" type="line"/>
+      <point x="409" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="-3" type="curve" smooth="yes"/>
+      <point x="394" y="-3"/>
+      <point x="517" y="226"/>
+      <point x="517" y="417" type="curve" smooth="yes"/>
+      <point x="517" y="552"/>
+      <point x="454" y="641"/>
+      <point x="350" y="641" type="curve" smooth="yes"/>
+      <point x="179" y="641"/>
+      <point x="55" y="415"/>
+      <point x="55" y="223" type="curve" smooth="yes"/>
+      <point x="55" y="87"/>
+      <point x="119" y="-3"/>
+    </contour>
+    <contour>
+      <point x="236" y="46" type="curve" smooth="yes"/>
+      <point x="195" y="46"/>
+      <point x="181" y="107"/>
+      <point x="181" y="180" type="curve" smooth="yes"/>
+      <point x="181" y="330"/>
+      <point x="249" y="594"/>
+      <point x="342" y="594" type="curve" smooth="yes"/>
+      <point x="381" y="594"/>
+      <point x="394" y="544"/>
+      <point x="394" y="479" type="curve" smooth="yes"/>
+      <point x="394" y="328"/>
+      <point x="325" y="46"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 20:44:12 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright" format="1">
+  <advance width="328"/>
+  <unicode hex="007D"/>
+  <note>
+    braceright
+  </note>
+  <outline>
+    <contour>
+      <point x="-32" y="-128" type="curve"/>
+      <point x="101" y="-125"/>
+      <point x="213" y="-57"/>
+      <point x="213" y="74" type="curve" smooth="yes"/>
+      <point x="213" y="122"/>
+      <point x="201" y="168"/>
+      <point x="201" y="202" type="curve" smooth="yes"/>
+      <point x="201" y="266"/>
+      <point x="248" y="283"/>
+      <point x="316" y="289" type="curve"/>
+      <point x="321" y="298"/>
+      <point x="324" y="316"/>
+      <point x="324" y="329" type="curve"/>
+      <point x="271" y="333"/>
+      <point x="235" y="346"/>
+      <point x="235" y="384" type="curve" smooth="yes"/>
+      <point x="235" y="439"/>
+      <point x="320" y="523"/>
+      <point x="320" y="613" type="curve" smooth="yes"/>
+      <point x="320" y="695"/>
+      <point x="250" y="743"/>
+      <point x="138" y="746" type="curve"/>
+      <point x="135" y="741"/>
+      <point x="131" y="718"/>
+      <point x="132" y="707" type="curve"/>
+      <point x="192" y="705"/>
+      <point x="211" y="676"/>
+      <point x="211" y="639" type="curve" smooth="yes"/>
+      <point x="211" y="556"/>
+      <point x="132" y="468"/>
+      <point x="132" y="399" type="curve" smooth="yes"/>
+      <point x="132" y="349"/>
+      <point x="169" y="312"/>
+      <point x="238" y="307" type="curve"/>
+      <point x="152" y="301"/>
+      <point x="87" y="253"/>
+      <point x="87" y="163" type="curve" smooth="yes"/>
+      <point x="87" y="128"/>
+      <point x="95" y="93"/>
+      <point x="95" y="54" type="curve" smooth="yes"/>
+      <point x="95" y="-34"/>
+      <point x="59" y="-86"/>
+      <point x="-23" y="-89" type="curve"/>
+      <point x="-29" y="-95"/>
+      <point x="-32" y="-110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-14 13:32:12 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|braceleft</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

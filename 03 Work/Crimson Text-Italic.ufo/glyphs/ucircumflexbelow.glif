@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflexbelow" format="1">
+  <advance width="484"/>
+  <unicode hex="1E77"/>
+  <outline>
+    <component base="u"/>
+    <component base="circumflexbelowcomb" xOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 21:09:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

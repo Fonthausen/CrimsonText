@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gradient" format="1">
+  <advance width="672"/>
+  <unicode hex="2207"/>
+  <note>
+    gradient
+  </note>
+  <outline>
+    <contour>
+      <point x="199" y="585" type="line"/>
+      <point x="184" y="576" type="line"/>
+      <point x="658" y="576" type="line"/>
+      <point x="649" y="591" type="line"/>
+      <point x="328" y="133" type="line"/>
+      <point x="337" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="25" type="line"/>
+      <point x="303" y="25" type="line"/>
+      <point x="728" y="622" type="line"/>
+      <point x="722" y="638" type="line"/>
+      <point x="111" y="638" type="line"/>
+      <point x="101" y="624" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-21 14:15:39 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>
